@@ -5,7 +5,34 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/8O/GK06JAEJ82TQ0GA2QB0DJG.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Idle_Rifle_Hip.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Jog_Fwd_Rifle.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Fire_Shotgun_Ironsights.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/shotgunBlendSpace.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/ABP-SHOTGUNt.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/textures/DefaultMaterial_BC.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/source/Shotgun_StockWood_Lp.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/source/Shotgun_StockPlastic_Lp.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/source/Shotgun_Body_Lp.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/source/Shotgun_Grip_Lp.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/source/Shotgun_BarrelPump_Lp.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/source/Shotgun_BarrelHolder_Lp.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/source/Shotgun_EjectorTop_Lp.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/source/Shotgun_Triggerholder_Lp.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/source/Shotgun_EjectorBottom_Lp.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/source/Shotgun_Trigger_Lp.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/source/Shotgun_SafetyLeft_Lp.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/source/Shotgun_SafetyRight_Lp.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/source/Shotgun_Barrel_Lp.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/textures/DefaultMaterial_AO.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/textures/DefaultMaterial_R.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/textures/DefaultMaterial_N.uasset",
+				"C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/textures/DefaultMaterial_M.uasset"
 			]
 		}
 	]
