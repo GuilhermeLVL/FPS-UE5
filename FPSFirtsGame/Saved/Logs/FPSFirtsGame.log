@@ -2049,3 +2049,301 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.02-08.33.12:790][656]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/shotgun/textures/DefaultMaterial_R.DefaultMaterial_R
 [2024.01.02-08.33.12:790][656]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/shotgun/textures/DefaultMaterial_N.DefaultMaterial_N
 [2024.01.02-08.33.12:790][656]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/shotgun/textures/DefaultMaterial_M.DefaultMaterial_M
+[2024.01.02-08.34.59:751][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.01.02-08.35.01:291][536]LogSlate: Window 'Delete Assets' being destroyed
+[2024.01.02-08.35.01:315][536]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.02-08.35.01:333][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.01.02-08.35.01:347][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.01.02-08.35.16:042][818]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\l-0-l\Downloads\shotgun/source/Shotgun.fbx)
+[2024.01.02-08.35.16:046][818]LogFbx: Loading FBX Scene from C:\Users\l-0-l\Downloads\shotgun/source/Shotgun.fbx
+[2024.01.02-08.35.16:056][818]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.02-08.35.25:580][818]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.02-08.35.25:617][818]LogFbx: Display: Triangulating static mesh StockWood_Lp
+[2024.01.02-08.35.25:657][818]LogFbx: Display: Triangulating static mesh StockPlastic_Lp
+[2024.01.02-08.35.25:665][818]LogFbx: Display: Triangulating static mesh Body_Lp
+[2024.01.02-08.35.25:678][818]LogFbx: Display: Triangulating static mesh Grip_Lp
+[2024.01.02-08.35.25:688][818]LogFbx: Display: Triangulating static mesh BarrelPump_Lp
+[2024.01.02-08.35.25:690][818]LogFbx: Display: Triangulating static mesh BarrelHolder_Lp
+[2024.01.02-08.35.25:709][818]LogFbx: Display: Triangulating static mesh EjectorTop_Lp
+[2024.01.02-08.35.25:712][818]LogFbx: Display: Triangulating static mesh Triggerholder_Lp
+[2024.01.02-08.35.25:717][818]LogFbx: Display: Triangulating static mesh EjectorBottom_Lp
+[2024.01.02-08.35.25:721][818]LogFbx: Display: Triangulating static mesh Trigger_Lp
+[2024.01.02-08.35.25:726][818]LogFbx: Display: Triangulating static mesh SafetyLeft_Lp
+[2024.01.02-08.35.25:737][818]LogFbx: Display: Triangulating static mesh SafetyRight_Lp
+[2024.01.02-08.35.25:742][818]LogFbx: Display: Triangulating static mesh Barrel_Lp
+[2024.01.02-08.35.25:784][818]LogStaticMesh: Display: Building static mesh Shotgun...
+[2024.01.02-08.35.25:888][818]LogStaticMesh: Built static mesh [0.10s] /Game/shotgun/source/Shotgun.Shotgun
+[2024.01.02-08.35.25:931][818]LogInterchangeEngine: [Pending] Importing
+[2024.01.02-08.35.25:931][818]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l-0-l/Downloads/shotgun/textures/DefaultMaterial_AO.png]
+[2024.01.02-08.35.25:931][818]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.01.02-08.35.25:931][818]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l-0-l/Downloads/shotgun/textures/DefaultMaterial_BC.png]
+[2024.01.02-08.35.25:932][818]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.01.02-08.35.25:932][818]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l-0-l/Downloads/shotgun/textures/DefaultMaterial_M.png]
+[2024.01.02-08.35.25:932][818]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.01.02-08.35.25:932][818]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l-0-l/Downloads/shotgun/textures/DefaultMaterial_N.png]
+[2024.01.02-08.35.25:933][818]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.01.02-08.35.25:933][818]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/l-0-l/Downloads/shotgun/textures/DefaultMaterial_R.png]
+[2024.01.02-08.35.25:977][818]LogAutomationController: Ignoring very large delta of 9.94 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2024.01.02-08.35.25:992][819]LogInterchangeEngine: [Pending] Importing -  (5)
+[2024.01.02-08.35.26:059][824]LogInterchangeEngine: [Pending] Importing -  (4)
+[2024.01.02-08.35.26:061][824]LogTexture: Display: Building textures: /Game/shotgun/textures/DefaultMaterial_M.DefaultMaterial_M (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.02-08.35.26:200][825]LogInterchangeEngine: [Pending] Importing -  (3)
+[2024.01.02-08.35.26:201][825]LogInterchangeEngine: [Pending] Importing -  (2)
+[2024.01.02-08.35.26:352][829]LogTexture: Display: Building textures: /Game/shotgun/textures/DefaultMaterial_R.DefaultMaterial_R (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.02-08.35.26:352][829]LogTexture: Display: Building textures: /Game/shotgun/textures/DefaultMaterial_AO.DefaultMaterial_AO (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1104.062484 MB), EncodeSpeed: Fast
+[2024.01.02-08.35.26:432][832]LogInterchangeEngine: [Pending] Importing -  (1)
+[2024.01.02-08.35.26:748][844]LogInterchangePipeline: Display: Auto-detected normal map
+[2024.01.02-08.35.26:957][853]LogInterchangeEngine: [Success] Import Done
+[2024.01.02-08.35.26:979][854]LogInterchangeEngine: [Success] Import Done
+[2024.01.02-08.35.27:035][855]LogTexture: Display: Building textures: /Game/shotgun/textures/DefaultMaterial_BC.DefaultMaterial_BC (TFO_AutoDXT, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.02-08.35.27:045][855]LogTexture: Display: Building textures: /Game/shotgun/textures/DefaultMaterial_N.DefaultMaterial_N (TFO_BC5, 4096x4096 x1x1x1) (Required Memory Estimate: 1152.062484 MB), EncodeSpeed: Fast
+[2024.01.02-08.35.55:319][544]LogAssetEditorSubsystem: Opening Asset editor for StaticMesh /Game/shotgun/source/Shotgun.Shotgun
+[2024.01.02-08.35.55:342][544]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.02-08.35.55:342][544]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.02-08.35.55:864][544]LogViewport: Scene viewport resized to 1405x902, mode Windowed.
+[2024.01.02-08.36.16:115][ 53]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.01.02-08.36.16:122][ 53]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.01.02-08.36.16:132][ 54]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.01.02-08.36.22:961][134]LogContentBrowser: Attempting asset rename: NewMaterial -> NewMaterial
+[2024.01.02-08.36.22:962][134]LogContentBrowser: End creating deferred item NewMaterial
+[2024.01.02-08.36.31:540][573]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Shotgun
+[2024.01.02-08.36.31:565][573]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.02-08.36.31:610][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/shotgun/textures/M_Shotgun" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/textures/M_Shotgun.uasset" SILENT=true
+[2024.01.02-08.36.31:611][573]LogSavePackage: Moving output files for package: /Game/shotgun/textures/M_Shotgun
+[2024.01.02-08.36.31:611][573]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/M_Shotgun22EB153E41CB767CC4E0158BB7E69D9D.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/textures/M_Shotgun.uasset'
+[2024.01.02-08.36.31:616][573]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 1.33 sec)
+[2024.01.02-08.36.31:637][573]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.02-08.36.31:652][573]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.01.02-08.36.31:666][573]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2024.01.02-08.36.31:668][573]AssetCheck: New page: Asset Save: M_Shotgun
+[2024.01.02-08.36.31:668][573]LogContentValidation: Display: Validating /Script/Engine.Material /Game/shotgun/textures/M_Shotgun.M_Shotgun
+[2024.01.02-08.36.35:077][686]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/shotgun/textures/M_Shotgun.M_Shotgun
+[2024.01.02-08.36.35:155][686]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.02-08.36.35:155][686]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.02-08.36.35:330][686]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.02-08.36.35:330][686]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.02-08.36.35:330][686]MaterialEditorStats: Shader Count: 0
+[2024.01.02-08.36.35:335][686]LogViewport: Scene viewport resized to 376x448, mode Windowed.
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: ================================================
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: Total job queries 50, among them cache hits 6 (12.00%)
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: Tracking 41 distinct input hashes that result in 28 distinct outputs (68.29%)
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: RAM used: 970,60 KiB of 819,20 MiB budget. Usage: 0.12%
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: Shaders Compiled: 41
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: Jobs assigned 44, completed 41 (93.18%)
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: Average time worker was idle: 395.63 s
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: Time job spent in pending queue: average 0.22 s, longest 1.49 s
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: Job execution time: average 0.67 s, max 1.70 s
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: Job life time (pending + execution): average 0.90 s, max 1.81
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: Shader code size: average 33,241 KiB, min 3,699 KiB, max 42,973 KiB
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.49 s
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: Jobs were issued in 44 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: Average processing rate: 9.13 jobs/sec
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: Total thread time: 11,548 s
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: Total thread preprocess time: 1,373 s
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: Percentage time preprocessing: 11.89%
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: Effective parallelization: 2.57 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.35 sec, max 0.36 sec, min 0.34 sec)
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    2 times, average 0.32 sec, max 0.33 sec, min 0.31 sec)
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    7 times, average 0.31 sec, max 0.38 sec, min 0.21 sec)
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    6 times, average 0.29 sec, max 0.35 sec, min 0.26 sec)
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    4 times, average 0.28 sec, max 0.29 sec, min 0.27 sec)
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 18.63% of total time (compiled    7 times, average 0.31 sec, max 0.38 sec, min 0.21 sec)
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.96% of total time (compiled    7 times, average 0.28 sec, max 0.34 sec, min 0.18 sec)
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display:                                                  FVelocityVS - 14.97% of total time (compiled    6 times, average 0.29 sec, max 0.35 sec, min 0.26 sec)
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display:                                                  FHitProxyVS - 9.69% of total time (compiled    4 times, average 0.28 sec, max 0.29 sec, min 0.27 sec)
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display:                                                  FVelocityPS - 7.46% of total time (compiled    6 times, average 0.14 sec, max 0.16 sec, min 0.12 sec)
+[2024.01.02-08.36.35:710][713]LogShaderCompilers: Display: ================================================
+[2024.01.02-08.36.35:919][731]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.01.02-08.36.35:919][731]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.01.02-08.36.35:919][731]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.02-08.36.35:919][731]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.02-08.36.35:919][731]MaterialEditorStats: Shader Count: 4
+[2024.01.02-08.37.20:931][439]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.02-08.37.20:931][439]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.02-08.37.20:931][439]MaterialEditorStats: Shader Count: 0
+[2024.01.02-08.37.20:969][441]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.01.02-08.37.20:969][441]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.01.02-08.37.20:969][441]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.02-08.37.20:969][441]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.01.02-08.37.20:969][441]MaterialEditorStats: Shader Count: 4
+[2024.01.02-08.37.44:218][849]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.02-08.37.44:218][849]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.02-08.37.44:218][849]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.02-08.37.44:218][849]MaterialEditorStats: Shader Count: 0
+[2024.01.02-08.37.44:609][885]MaterialEditorStats: Texture samplers: 1/16
+[2024.01.02-08.37.44:609][885]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.02-08.37.44:609][885]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.02-08.37.44:609][885]MaterialEditorStats: Shader Count: 1
+[2024.01.02-08.37.44:819][904]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.01.02-08.37.44:819][904]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.02-08.37.44:819][904]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.02-08.37.44:819][904]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.01.02-08.37.44:819][904]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.02-08.37.44:819][904]MaterialEditorStats: Shader Count: 4
+[2024.01.02-08.38.37:504][592]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.02-08.38.37:504][592]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.02-08.38.37:504][592]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.02-08.38.37:504][592]MaterialEditorStats: Shader Count: 0
+[2024.01.02-08.38.37:880][626]MaterialEditorStats: Texture samplers: 1/16
+[2024.01.02-08.38.37:880][626]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.02-08.38.37:880][626]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.02-08.38.37:880][626]MaterialEditorStats: Shader Count: 1
+[2024.01.02-08.38.38:091][645]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.01.02-08.38.38:091][645]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.02-08.38.38:091][645]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.02-08.38.38:091][645]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.01.02-08.38.38:091][645]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.02-08.38.38:091][645]MaterialEditorStats: Shader Count: 4
+[2024.01.02-08.38.59:712][774]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.02-08.38.59:712][774]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.02-08.38.59:712][774]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.02-08.38.59:712][774]MaterialEditorStats: Shader Count: 0
+[2024.01.02-08.39.00:100][810]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.02-08.39.00:100][810]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.02-08.39.00:100][810]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.02-08.39.00:100][810]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.02-08.39.00:100][810]MaterialEditorStats: Shader Count: 2
+[2024.01.02-08.39.00:199][819]MaterialEditorStats: Base pass shader: 202 instructions
+[2024.01.02-08.39.00:199][819]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.02-08.39.00:199][819]MaterialEditorStats: Texture samplers: 4/16
+[2024.01.02-08.39.00:199][819]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2024.01.02-08.39.00:199][819]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.02-08.39.00:199][819]MaterialEditorStats: Shader Count: 4
+[2024.01.02-08.39.10:713][936]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.02-08.39.10:713][936]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.01.02-08.39.10:713][936]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.02-08.39.10:713][936]MaterialEditorStats: Shader Count: 0
+[2024.01.02-08.39.11:024][964]MaterialEditorStats: Texture samplers: 2/16
+[2024.01.02-08.39.11:024][964]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.01.02-08.39.11:024][964]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.02-08.39.11:024][964]MaterialEditorStats: Shader Count: 1
+[2024.01.02-08.39.11:125][973]MaterialEditorStats: Base pass shader: 205 instructions
+[2024.01.02-08.39.11:125][973]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.02-08.39.11:125][973]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.02-08.39.11:125][973]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2024.01.02-08.39.11:125][973]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.02-08.39.11:125][973]MaterialEditorStats: Shader Count: 4
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: ================================================
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: Total job queries 190, among them cache hits 116 (61.05%)
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: Tracking 74 distinct input hashes that result in 40 distinct outputs (54.05%)
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: RAM used: 1,62 MiB of 819,20 MiB budget. Usage: 0.20%
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: Shaders Compiled: 74
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: Jobs assigned 74, completed 74 (100%)
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: Average time worker was idle: 317.47 s
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: Time job spent in pending queue: average 0.17 s, longest 1.49 s
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: Job execution time: average 0.58 s, max 1.70 s
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: Job life time (pending + execution): average 0.75 s, max 1.81
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: Shader code size: average 33,841 KiB, min 3,699 KiB, max 42,973 KiB
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 8.56 s
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: Jobs were issued in 74 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: Average processing rate: 8.65 jobs/sec
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: Total thread time: 21,152 s
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: Total thread preprocess time: 2,56 s
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: Percentage time preprocessing: 12.10%
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: Effective parallelization: 2.47 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    2 times, average 0.35 sec, max 0.36 sec, min 0.34 sec)
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display:                                          TDepthOnlyVS<false> (compiled    2 times, average 0.32 sec, max 0.33 sec, min 0.31 sec)
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled   19 times, average 0.31 sec, max 0.47 sec, min 0.18 sec)
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   19 times, average 0.31 sec, max 0.40 sec, min 0.20 sec)
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display:                                                  FVelocityVS (compiled    6 times, average 0.29 sec, max 0.35 sec, min 0.26 sec)
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 28.05% of total time (compiled   19 times, average 0.31 sec, max 0.47 sec, min 0.18 sec)
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 27.93% of total time (compiled   19 times, average 0.31 sec, max 0.40 sec, min 0.20 sec)
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display:                                                 FLumenCardVS - 10.18% of total time (compiled    8 times, average 0.27 sec, max 0.34 sec, min 0.17 sec)
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display:                                                  FVelocityVS - 8.18% of total time (compiled    6 times, average 0.29 sec, max 0.35 sec, min 0.26 sec)
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display:                                                  FHitProxyVS - 5.29% of total time (compiled    4 times, average 0.28 sec, max 0.29 sec, min 0.27 sec)
+[2024.01.02-08.39.44:236][135]LogShaderCompilers: Display: ================================================
+[2024.01.02-08.39.47:895][501]MaterialEditorStats: Texture samplers: 0/16
+[2024.01.02-08.39.47:895][501]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2024.01.02-08.39.47:896][501]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.02-08.39.47:896][501]MaterialEditorStats: Shader Count: 0
+[2024.01.02-08.39.48:297][538]MaterialEditorStats: Texture samplers: 3/16
+[2024.01.02-08.39.48:298][538]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2024.01.02-08.39.48:298][538]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.02-08.39.48:298][538]MaterialEditorStats: Shader Count: 1
+[2024.01.02-08.39.48:507][557]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.01.02-08.39.48:507][557]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.02-08.39.48:507][557]MaterialEditorStats: Texture samplers: 6/16
+[2024.01.02-08.39.48:507][557]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2024.01.02-08.39.48:507][557]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.02-08.39.48:507][557]MaterialEditorStats: Shader Count: 4
+[2024.01.02-08.40.17:004][522]LogMaterialEditor: Applying material M_Shotgun
+[2024.01.02-08.40.17:075][522]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2024.01.02-08.40.17:622][522]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.01.02-08.40.17:630][522]MaterialEditorStats: Texture samplers: 5/16
+[2024.01.02-08.40.17:630][522]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2024.01.02-08.40.17:630][522]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.02-08.40.17:630][522]MaterialEditorStats: Shader Count: 2
+[2024.01.02-08.40.17:638][523]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.01.02-08.40.17:638][523]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.02-08.40.17:638][523]MaterialEditorStats: Texture samplers: 6/16
+[2024.01.02-08.40.17:638][523]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2024.01.02-08.40.17:638][523]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.02-08.40.17:638][523]MaterialEditorStats: Shader Count: 4
+[2024.01.02-08.40.20:266][753]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.02-08.40.20:267][753]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2024.01.02-08.40.20:267][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/shotgun/source/Shotgun] ([1] browsable assets)...
+[2024.01.02-08.40.20:278][753]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/shotgun/source/Shotgun.Shotgun]
+[2024.01.02-08.40.20:278][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/shotgun/source/Shotgun]
+[2024.01.02-08.40.20:285][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/shotgun/source/Shotgun_Auto4
+[2024.01.02-08.40.20:285][753]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Shotgun_Auto4ECDBCFF54441467F4044B0BA4519ADF7.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/shotgun/source/Shotgun_Auto4.uasset'
+[2024.01.02-08.40.20:288][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/shotgun/textures/DefaultMaterial_AO] ([1] browsable assets)...
+[2024.01.02-08.40.20:289][753]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/shotgun/textures/DefaultMaterial_AO.DefaultMaterial_AO]
+[2024.01.02-08.40.20:289][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/shotgun/textures/DefaultMaterial_AO]
+[2024.01.02-08.40.20:299][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/shotgun/textures/DefaultMaterial_AO_Auto4
+[2024.01.02-08.40.20:299][753]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/DefaultMaterial_AO_Auto4D4465DDC4B82D08CF853CCB632A485BE.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/shotgun/textures/DefaultMaterial_AO_Auto4.uasset'
+[2024.01.02-08.40.20:299][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/shotgun/textures/DefaultMaterial_BC] ([1] browsable assets)...
+[2024.01.02-08.40.20:301][753]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/shotgun/textures/DefaultMaterial_BC.DefaultMaterial_BC]
+[2024.01.02-08.40.20:301][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/shotgun/textures/DefaultMaterial_BC]
+[2024.01.02-08.40.20:451][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/shotgun/textures/DefaultMaterial_BC_Auto4
+[2024.01.02-08.40.20:451][753]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/DefaultMaterial_BC_Auto468AD89C641837E594E99A38434DE0B1A.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/shotgun/textures/DefaultMaterial_BC_Auto4.uasset'
+[2024.01.02-08.40.20:452][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/shotgun/textures/DefaultMaterial_M] ([1] browsable assets)...
+[2024.01.02-08.40.20:453][753]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/shotgun/textures/DefaultMaterial_M.DefaultMaterial_M]
+[2024.01.02-08.40.20:453][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/shotgun/textures/DefaultMaterial_M]
+[2024.01.02-08.40.20:462][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/shotgun/textures/DefaultMaterial_M_Auto4
+[2024.01.02-08.40.20:462][753]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/DefaultMaterial_M_Auto4EEA196504CD884CC351FBA9785E79619.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/shotgun/textures/DefaultMaterial_M_Auto4.uasset'
+[2024.01.02-08.40.20:464][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/shotgun/textures/DefaultMaterial_N] ([1] browsable assets)...
+[2024.01.02-08.40.20:465][753]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/shotgun/textures/DefaultMaterial_N.DefaultMaterial_N]
+[2024.01.02-08.40.20:465][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/shotgun/textures/DefaultMaterial_N]
+[2024.01.02-08.40.20:620][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/shotgun/textures/DefaultMaterial_N_Auto4
+[2024.01.02-08.40.20:620][753]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/DefaultMaterial_N_Auto4E4C2B8AB4EA05210F3414187D243F4C9.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/shotgun/textures/DefaultMaterial_N_Auto4.uasset'
+[2024.01.02-08.40.20:620][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/shotgun/textures/DefaultMaterial_R] ([1] browsable assets)...
+[2024.01.02-08.40.20:622][753]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/shotgun/textures/DefaultMaterial_R.DefaultMaterial_R]
+[2024.01.02-08.40.20:622][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/shotgun/textures/DefaultMaterial_R]
+[2024.01.02-08.40.20:632][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/shotgun/textures/DefaultMaterial_R_Auto4
+[2024.01.02-08.40.20:632][753]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/DefaultMaterial_R_Auto4F56AC4234DAE53BD86FE25AAA595119D.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/shotgun/textures/DefaultMaterial_R_Auto4.uasset'
+[2024.01.02-08.40.20:633][753]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/shotgun/textures/M_Shotgun] ([1] browsable assets)...
+[2024.01.02-08.40.21:406][753]OBJ SavePackage:     Rendered thumbnail for [Material /Game/shotgun/textures/M_Shotgun.M_Shotgun]
+[2024.01.02-08.40.21:406][753]OBJ SavePackage: Finished generating thumbnails for package [/Game/shotgun/textures/M_Shotgun]
+[2024.01.02-08.40.21:408][753]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/shotgun/textures/M_Shotgun_Auto4
+[2024.01.02-08.40.21:408][753]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/M_Shotgun_Auto48B1817DA4C57C42D0A3FACB23EC85AB3.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/shotgun/textures/M_Shotgun_Auto4.uasset'
+[2024.01.02-08.40.21:409][753]LogFileHelpers: Auto-saving content packages took 1.142
+[2024.01.02-08.40.21:420][754]MaterialEditorStats: Base pass shader: 208 instructions
+[2024.01.02-08.40.21:420][754]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.01.02-08.40.21:420][754]MaterialEditorStats: MaxSampler: 274 instructions
+[2024.01.02-08.40.21:420][754]MaterialEditorStats: Texture samplers: 8/16
+[2024.01.02-08.40.21:420][754]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(5)
+[2024.01.02-08.40.21:420][754]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.01.02-08.40.21:420][754]MaterialEditorStats: Shader Count: 16
+[2024.01.02-08.40.30:987][972]LogMaterialEditor: Saving and Compiling material M_Shotgun
+[2024.01.02-08.40.30:989][972]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.02-08.40.31:011][972]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/shotgun/textures/M_Shotgun" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/textures/M_Shotgun.uasset" SILENT=true
+[2024.01.02-08.40.31:013][972]LogSavePackage: Moving output files for package: /Game/shotgun/textures/M_Shotgun
+[2024.01.02-08.40.31:013][972]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/M_Shotgun87FE04434B1E79C16A70019E853570CF.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/textures/M_Shotgun.uasset'
+[2024.01.02-08.40.31:018][972]LogFileHelpers: InternalPromptForCheckoutAndSave took 28 ms (total: 1.36 sec)
+[2024.01.02-08.40.31:018][972]AssetCheck: New page: Asset Save: M_Shotgun
+[2024.01.02-08.40.31:018][972]LogContentValidation: Display: Validating /Script/Engine.Material /Game/shotgun/textures/M_Shotgun.M_Shotgun
+[2024.01.02-08.41.28:456][266]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.02-08.41.28:484][266]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/shotgun/source/Shotgun" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/source/Shotgun.uasset" SILENT=true
+[2024.01.02-08.41.28:491][266]LogSavePackage: Moving output files for package: /Game/shotgun/source/Shotgun
+[2024.01.02-08.41.28:491][266]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Shotgun52FD8A5A408DC03B1D65BABE7BD71400.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/shotgun/source/Shotgun.uasset'
+[2024.01.02-08.41.28:497][266]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 1.40 sec)
+[2024.01.02-08.41.28:497][266]AssetCheck: New page: Asset Save: Shotgun
+[2024.01.02-08.41.28:497][266]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/shotgun/source/Shotgun.Shotgun
