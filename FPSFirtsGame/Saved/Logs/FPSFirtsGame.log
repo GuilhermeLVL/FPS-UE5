@@ -4016,3 +4016,186 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.03-09.29.34:714][110]AssetCheck: New page: Asset Save: multiple assets
 [2024.01.03-09.29.34:714][110]LogContentValidation: Display: Validating /Script/Engine.World /Game/mapas/01.01
 [2024.01.03-09.29.34:714][110]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/blueprints/BP_Plataform.BP_Plataform
+[2024.01.03-09.32.53:757][305]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.01.03-09.32.53:761][305]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.01.03-09.32.53:767][305]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.01.03-09.32.53:776][306]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.01.03-09.33.01:664][810]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Enemie
+[2024.01.03-09.33.01:670][810]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.01.03-09.33.24:267][954]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprints/BP_Enemie.BP_Enemie
+[2024.01.03-09.33.24:267][954]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-09.33.24:267][954]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-09.33.24:368][954]LogViewport: Scene viewport resized to 1129x691, mode Windowed.
+[2024.01.03-09.33.42:287][170]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-09.33.42:319][172]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-09.33.43:642][306]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin) ...
+[2024.01.03-09.33.43:673][306]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-09.33.43:750][307]LogShaderCompilers: Display: ================================================
+[2024.01.03-09.33.43:750][307]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.03-09.33.43:750][307]LogShaderCompilers: Display: Total job queries 8, among them cache hits 0 (0.00%)
+[2024.01.03-09.33.43:750][307]LogShaderCompilers: Display: Tracking 8 distinct input hashes that result in 7 distinct outputs (87.50%)
+[2024.01.03-09.33.43:750][307]LogShaderCompilers: Display: RAM used: 195,12 KiB of 819,20 MiB budget. Usage: 0.02%
+[2024.01.03-09.33.43:750][307]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.03-09.33.43:750][307]LogShaderCompilers: Display: Shaders Compiled: 0
+[2024.01.03-09.33.43:750][307]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2024.01.03-09.33.43:750][307]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2024.01.03-09.33.43:750][307]LogShaderCompilers: Display: ================================================
+[2024.01.03-09.33.43:833][310]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-09.33.51:972][574]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim
+[2024.01.03-09.33.51:993][574]LogAnimationCompression: Display: Storing compressed animation data for /Game/Characters/Mannequins/Rigs/Poses/Manny/Manny_calf_l_anim.Manny_calf_l_anim, at AnimationSequence/5f5dea9f6260d1bfe6592010f9b6db60557a1867
+[2024.01.03-09.33.52:027][574]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny) ...
+[2024.01.03-09.33.52:166][575]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-09.35.09:879][853]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'DefaultForeground'.'
+[2024.01.03-09.35.18:352][283]BlueprintLog: New page: Compile BP_Enemie
+[2024.01.03-09.35.18:436][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.01.03-09.35.26:152][756]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/blueprints/BP_Enemie.BP_Enemie_C
+[2024.01.03-09.35.26:152][756]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/blueprints/BP_Enemie.BP_Enemie_C
+[2024.01.03-09.35.26:165][756]LogActorFactory: Actor Factory spawned Blueprint /Game/blueprints/BP_Enemie.BP_Enemie as actor: BP_Enemie_C /Game/mapas/01.01:PersistentLevel.BP_Enemie_C_0
+[2024.01.03-09.35.26:168][756]LogActorFactory: Actor Factory spawned Blueprint /Game/blueprints/BP_Enemie.BP_Enemie as actor: BP_Enemie_C /Game/mapas/01.01:PersistentLevel.BP_Enemie_C_0
+[2024.01.03-09.35.26:763][794]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/blueprints/BP_Enemie.BP_Enemie_C
+[2024.01.03-09.35.26:763][794]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/blueprints/BP_Enemie.BP_Enemie_C
+[2024.01.03-09.35.26:772][794]LogActorFactory: Actor Factory spawned Blueprint /Game/blueprints/BP_Enemie.BP_Enemie as actor: BP_Enemie_C /Game/mapas/01.01:PersistentLevel.BP_Enemie_C_1
+[2024.01.03-09.35.26:775][794]LogActorFactory: Actor Factory spawned Blueprint /Game/blueprints/BP_Enemie.BP_Enemie as actor: BP_Enemie_C /Game/mapas/01.01:PersistentLevel.BP_Enemie_C_1
+[2024.01.03-09.40.23:198][637]BlueprintLog: New page: Compile BP_Enemie
+[2024.01.03-09.40.23:325][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.03-09.40.30:314][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.03-09.40.30:318][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mapas/01" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/mapas/01_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.01.03-09.40.30:328][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/mapas/01_Auto3
+[2024.01.03-09.40.30:328][ 76]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/01_Auto36B9868FF4D68ACF73BA178AF0929D888.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/mapas/01_Auto3.umap'
+[2024.01.03-09.40.30:330][ 76]LogAssetRegistry: Warning: ScanPathsSynchronous: C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/mapas/01_Auto3.umap is in the /Temp path, will not scan.
+[2024.01.03-09.40.30:330][ 76]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/mapas/01' took 0.034
+[2024.01.03-09.40.30:330][ 76]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2024.01.03-09.40.30:330][ 76]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprints/BP_Enemie] ([2] browsable assets)...
+[2024.01.03-09.40.30:341][ 76]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprints/BP_Enemie.BP_Enemie]
+[2024.01.03-09.40.30:341][ 76]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-09.40.30:356][ 76]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/blueprints/BP_Enemie.BP_Enemie_C]
+[2024.01.03-09.40.30:356][ 76]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/BP_Enemie]
+[2024.01.03-09.40.30:356][ 76]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_Enemie" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/blueprints/BP_Enemie_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2024.01.03-09.40.30:361][ 76]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprints/BP_Enemie_Auto3
+[2024.01.03-09.40.30:361][ 76]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/BP_Enemie_Auto3E6BC3B654D2538AD49AF708FB4542CE2.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/blueprints/BP_Enemie_Auto3.uasset'
+[2024.01.03-09.40.30:362][ 76]LogFileHelpers: Auto-saving content packages took 0.032
+[2024.01.03-09.40.50:306][757]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2024.01.03-09.40.50:306][757]LogActorFactory: Actor Factory attempting to spawn Class /Script/NavigationSystem.NavMeshBoundsVolume
+[2024.01.03-09.40.50:307][757]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/mapas/01.01:PersistentLevel.NavMeshBoundsVolume_0
+[2024.01.03-09.40.50:309][757]LogActorFactory: Actor Factory spawned Class /Script/NavigationSystem.NavMeshBoundsVolume as actor: NavMeshBoundsVolume /Game/mapas/01.01:PersistentLevel.NavMeshBoundsVolume_0
+[2024.01.03-09.42.37:492][698]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.03-09.42.37:497][698]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.03-09.42.37:497][698]PIE: New page: PIE session: 01 (3 de jan de 2024 03:42:37)
+[2024.01.03-09.42.37:498][698]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.03-09.42.37:501][698]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003269s)
+[2024.01.03-09.42.37:501][698]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.003296s)
+[2024.01.03-09.42.37:520][698]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2024.01.03-09.42.37:525][698]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-09.42.37:525][698]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-09.42.37:525][698]LogAIModule: Creating AISystem for world 01
+[2024.01.03-09.42.37:525][698]LogPlayLevel: PIE: World Init took: (0.000749s)
+[2024.01.03-09.42.37:525][698]LogAudio: Display: Creating Audio Device:                 Id: 26, Scope: Unique, Realtime: True
+[2024.01.03-09.42.37:525][698]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.03-09.42.37:525][698]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.03-09.42.37:525][698]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.03-09.42.37:525][698]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.03-09.42.37:525][698]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.03-09.42.37:525][698]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.03-09.42.37:526][698]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.03-09.42.37:526][698]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.03-09.42.37:526][698]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.03-09.42.37:526][698]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.03-09.42.37:526][698]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.03-09.42.37:527][698]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.03-09.42.37:547][698]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.03-09.42.37:548][698]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.03-09.42.37:548][698]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.03-09.42.37:548][698]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.03-09.42.37:548][698]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=26
+[2024.01.03-09.42.37:548][698]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=26
+[2024.01.03-09.42.37:550][698]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=26
+[2024.01.03-09.42.37:550][698]LogInit: FAudioDevice initialized with ID 26.
+[2024.01.03-09.42.37:550][698]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=26
+[2024.01.03-09.42.37:550][698]LogAudio: Display: Audio Device (ID: 26) registered with world '01'.
+[2024.01.03-09.42.37:550][698]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 26
+[2024.01.03-09.42.37:553][698]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.03-09.42.37:558][698]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.03-06.42.37
+[2024.01.03-09.42.37:558][698]LogWorld: Bringing up level for play took: 0.004420
+[2024.01.03-09.42.37:560][698]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.01.03-09.42.37:563][698]PIE: Server logged in
+[2024.01.03-09.42.37:563][698]PIE: Play in editor total start time 0,066 seconds.
+[2024.01.03-09.42.50:868][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-09.42.50:868][ 36]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.03-09.42.50:868][ 36]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-09.42.50:869][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-09.42.50:871][ 36]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.03-09.42.50:875][ 36]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-09.42.50:889][ 36]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.03-09.42.50:889][ 36]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 26
+[2024.01.03-09.42.50:889][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.01.03-09.42.50:891][ 36]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=26
+[2024.01.03-09.42.50:895][ 36]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-09.42.50:899][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2024.01.03-09.42.50:969][ 37]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.01.03-09.42.53:064][151]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.03-09.42.53:071][151]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.03-09.42.53:071][151]PIE: New page: PIE session: 01 (3 de jan de 2024 03:42:53)
+[2024.01.03-09.42.53:071][151]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.03-09.42.53:075][151]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004444s)
+[2024.01.03-09.42.53:075][151]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.004478s)
+[2024.01.03-09.42.53:091][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.01.03-09.42.53:094][151]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.03-09.42.53:094][151]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.03-09.42.53:094][151]LogAIModule: Creating AISystem for world 01
+[2024.01.03-09.42.53:095][151]LogPlayLevel: PIE: World Init took: (0.000882s)
+[2024.01.03-09.42.53:095][151]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.01.03-09.42.53:095][151]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.03-09.42.53:095][151]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.03-09.42.53:095][151]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.03-09.42.53:095][151]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.03-09.42.53:095][151]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.03-09.42.53:095][151]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.03-09.42.53:095][151]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.03-09.42.53:095][151]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.03-09.42.53:095][151]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.03-09.42.53:095][151]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.03-09.42.53:095][151]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.03-09.42.53:097][151]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.03-09.42.53:117][151]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.03-09.42.53:118][151]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.03-09.42.53:118][151]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.03-09.42.53:118][151]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.03-09.42.53:119][151]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.01.03-09.42.53:119][151]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=27
+[2024.01.03-09.42.53:120][151]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.01.03-09.42.53:120][151]LogInit: FAudioDevice initialized with ID 27.
+[2024.01.03-09.42.53:120][151]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.01.03-09.42.53:120][151]LogAudio: Display: Audio Device (ID: 27) registered with world '01'.
+[2024.01.03-09.42.53:120][151]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.01.03-09.42.53:122][151]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.03-09.42.53:127][151]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.03-06.42.53
+[2024.01.03-09.42.53:127][151]LogWorld: Bringing up level for play took: 0.004368
+[2024.01.03-09.42.53:129][151]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.01.03-09.42.53:131][151]PIE: Server logged in
+[2024.01.03-09.42.53:132][151]PIE: Play in editor total start time 0,061 seconds.
+[2024.01.03-09.43.20:918][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-09.43.20:918][ 28]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.03-09.43.20:919][ 28]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.03-09.43.20:919][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-09.43.20:922][ 28]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.03-09.43.20:926][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.03-09.43.20:936][ 28]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.03-09.43.20:936][ 28]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.01.03-09.43.20:936][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.01.03-09.43.20:938][ 28]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.01.03-09.43.20:945][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.01.03-09.43.21:017][ 29]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.01.03-09.44.06:320][326]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.03-09.44.06:326][326]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.03-09.44.06:344][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mapas/01" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/mapas/01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.03-09.44.06:376][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2024.01.03-09.44.06:387][326]LogSavePackage: Moving output files for package: /Game/mapas/01
+[2024.01.03-09.44.06:388][326]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/01EB135AF04DEED9AA58818FADBBD312F5.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/mapas/01.umap'
+[2024.01.03-09.44.06:394][326]LogFileHelpers: Saving map '01' took 0.050
+[2024.01.03-09.44.06:394][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_Enemie" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/blueprints/BP_Enemie.uasset" SILENT=true
+[2024.01.03-09.44.06:399][326]LogSavePackage: Moving output files for package: /Game/blueprints/BP_Enemie
+[2024.01.03-09.44.06:399][326]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/BP_Enemie8F92B2D94845FB8355EB8495496E03AD.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/blueprints/BP_Enemie.uasset'
+[2024.01.03-09.44.06:418][326]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 258 ms)
+[2024.01.03-09.44.06:420][326]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.03-09.44.06:420][326]LogContentValidation: Display: Validating /Script/Engine.World /Game/mapas/01.01
+[2024.01.03-09.44.06:420][326]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/blueprints/BP_Enemie.BP_Enemie
