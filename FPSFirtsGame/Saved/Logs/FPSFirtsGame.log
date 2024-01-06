@@ -2187,3 +2187,928 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.06-16.46.38:138][893]AssetCheck: New page: Asset Save: multiple assets
 [2024.01.06-16.46.38:138][893]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
 [2024.01.06-16.46.38:138][893]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/blueprints/BP_Enemie.BP_Enemie
+[2024.01.06-17.09.47:330][452]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\l-0-l\Downloads\Nova pasta (2)\RamsterZ_EpicMegaJam_2022_FreeAnims\RamsterZ_EpicMegaJam_2022_FBX_Only\RamsterZ_EpicMegaJam_2022\Paired_PressUpThrow_Att.fbx)
+[2024.01.06-17.09.47:428][452]LogFbx: Loading FBX Scene from C:\Users\l-0-l\Downloads\Nova pasta (2)\RamsterZ_EpicMegaJam_2022_FreeAnims\RamsterZ_EpicMegaJam_2022_FBX_Only\RamsterZ_EpicMegaJam_2022\Paired_PressUpThrow_Att.fbx
+[2024.01.06-17.09.47:479][452]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.06-17.09.58:381][452]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.06-17.09.58:446][452]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2024.01.06-17.09.58:452][452]LogUObjectGlobals: Force Deleting 0 Package(s):
+[2024.01.06-17.09.58:778][452]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2024.01.06-17.09.58:781][452]FBXImport: Import was canceled. 
+[2024.01.06-17.09.58:797][452]LogAssetTools: The import task was canceled.
+[2024.01.06-17.10.00:891][602]LogSlate: Window 'Message Log' being destroyed
+[2024.01.06-17.10.00:909][602]LogSlate: Window 'Message Log' being destroyed
+[2024.01.06-17.10.09:799][ 79]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\l-0-l\Downloads\Nova pasta (2)\RamsterZ_EpicMegaJam_2022_FreeAnims\RamsterZ_EpicMegaJam_2022_FBX_Only\RamsterZ_EpicMegaJam_2022\Paired_PressUpThrow_Att.fbx)
+[2024.01.06-17.10.09:806][ 79]LogFbx: Loading FBX Scene from C:\Users\l-0-l\Downloads\Nova pasta (2)\RamsterZ_EpicMegaJam_2022_FreeAnims\RamsterZ_EpicMegaJam_2022_FBX_Only\RamsterZ_EpicMegaJam_2022\Paired_PressUpThrow_Att.fbx
+[2024.01.06-17.10.09:841][ 79]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.06-17.10.22:951][ 79]LogSlate: Took 0.000198 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.06-17.10.23:016][ 79]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.10.31:284][ 79]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.06-17.10.31:310][ 79]LogFbx: SortedLinks :(0) root
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(1) pelvis
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(2) spine_01
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(3) spine_02
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(4) spine_03
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(5) clavicle_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(6) upperarm_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(7) lowerarm_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(8) hand_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(9) index_01_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(10) index_02_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(11) index_03_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(12) middle_01_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(13) middle_02_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(14) middle_03_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(15) pinky_01_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(16) pinky_02_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(17) pinky_03_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(18) ring_01_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(19) ring_02_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(20) ring_03_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(21) thumb_01_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(22) thumb_02_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(23) thumb_03_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(26) clavicle_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(27) upperarm_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(28) lowerarm_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(29) hand_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(30) index_01_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(31) index_02_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(32) index_03_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(33) middle_01_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(34) middle_02_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(35) middle_03_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(36) pinky_01_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(37) pinky_02_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(38) pinky_03_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(39) ring_01_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(40) ring_02_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(41) ring_03_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(42) thumb_01_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(43) thumb_02_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(44) thumb_03_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(47) neck_01
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(48) head
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(49) thigh_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(50) calf_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(52) foot_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(53) ball_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(55) thigh_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(56) calf_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(58) foot_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(59) ball_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(61) ik_foot_root
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(62) ik_foot_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(63) ik_foot_r
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(64) ik_hand_root
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(65) ik_hand_gun
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(66) ik_hand_l
+[2024.01.06-17.10.31:311][ 79]LogFbx: SortedLinks :(67) ik_hand_r
+[2024.01.06-17.10.31:312][ 79]LogFbx: Parsing AnimStack Take 001
+[2024.01.06-17.10.31:828][ 79]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Paired_PressUpThrow_Att.Paired_PressUpThrow_Att
+[2024.01.06-17.10.31:894][ 79]LogAnimationCompression: Display: Storing compressed animation data for /Game/Paired_PressUpThrow_Att.Paired_PressUpThrow_Att, at AnimationSequence/16671db2e48cbe52585f444f1026a670e56cdc5a
+[2024.01.06-17.10.32:037][ 79]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin) ...
+[2024.01.06-17.10.32:119][ 80]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.10.32:213][ 81]LogShaderCompilers: Display: ================================================
+[2024.01.06-17.10.32:213][ 81]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.06-17.10.32:213][ 81]LogShaderCompilers: Display: Total job queries 14, among them cache hits 0 (0.00%)
+[2024.01.06-17.10.32:213][ 81]LogShaderCompilers: Display: Tracking 14 distinct input hashes that result in 12 distinct outputs (85.71%)
+[2024.01.06-17.10.32:213][ 81]LogShaderCompilers: Display: RAM used: 284,03 KiB of 819,20 MiB budget. Usage: 0.03%
+[2024.01.06-17.10.32:213][ 81]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.06-17.10.32:213][ 81]LogShaderCompilers: Display: Shaders Compiled: 2
+[2024.01.06-17.10.32:213][ 81]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2024.01.06-17.10.32:213][ 81]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.05 s
+[2024.01.06-17.10.32:213][ 81]LogShaderCompilers: Display: Job execution time: average 0.95 s, max 0.96 s
+[2024.01.06-17.10.32:213][ 81]LogShaderCompilers: Display: Job life time (pending + execution): average 0.98 s, max 1.00
+[2024.01.06-17.10.32:213][ 81]LogShaderCompilers: Display: Shader code size: average 16,766 KiB, min 11,348 KiB, max 22,184 KiB
+[2024.01.06-17.10.32:213][ 81]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.00 s
+[2024.01.06-17.10.32:213][ 81]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.06-17.10.32:213][ 81]LogShaderCompilers: Display: Average processing rate: 1.99 jobs/sec
+[2024.01.06-17.10.32:213][ 81]LogShaderCompilers: Display: Total thread time: 0,252 s
+[2024.01.06-17.10.32:214][ 81]LogShaderCompilers: Display: Total thread preprocess time: 0 s
+[2024.01.06-17.10.32:214][ 81]LogShaderCompilers: Display: Percentage time preprocessing: 0.00%
+[2024.01.06-17.10.32:214][ 81]LogShaderCompilers: Display: Effective parallelization: 0.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.06-17.10.32:214][ 81]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.01.06-17.10.32:214][ 81]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    2 times, average 0.13 sec, max 0.17 sec, min 0.08 sec)
+[2024.01.06-17.10.32:214][ 81]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.01.06-17.10.32:214][ 81]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled    2 times, average 0.13 sec, max 0.17 sec, min 0.08 sec)
+[2024.01.06-17.10.32:214][ 81]LogShaderCompilers: Display: ================================================
+[2024.01.06-17.10.39:594][272]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Paired_PressUpThrow_Att.Paired_PressUpThrow_Att
+[2024.01.06-17.10.39:594][272]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.10.39:594][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.10.39:608][272]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.06-17.10.39:845][272]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.10.39:845][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.10.39:960][272]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.10.39:991][272]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/ApexDestruction.DestructibleMesh'
+[2024.01.06-17.10.39:996][272]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.10.39:996][272]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.10.40:021][272]LogViewport: Scene viewport resized to 564x146, mode Windowed.
+[2024.01.06-17.10.40:056][272]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.06-17.10.47:208][693]LogViewport: Scene viewport resized to 757x505, mode Windowed.
+[2024.01.06-17.10.47:232][693]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.11.11:956][127]LogDerivedDataCache: C:/Users/l-0-l/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.077 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 2483 files in 3526 folders with total size 97 MiB.
+[2024.01.06-17.11.23:426][614]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\l-0-l\Downloads\Nova pasta (2)\RamsterZ_EpicMegaJam_2022_FreeAnims\RamsterZ_EpicMegaJam_2022_FBX_Only\RamsterZ_EpicMegaJam_2022\Paired_PushShove_Att.fbx)
+[2024.01.06-17.11.23:432][614]LogFbx: Loading FBX Scene from C:\Users\l-0-l\Downloads\Nova pasta (2)\RamsterZ_EpicMegaJam_2022_FreeAnims\RamsterZ_EpicMegaJam_2022_FBX_Only\RamsterZ_EpicMegaJam_2022\Paired_PushShove_Att.fbx
+[2024.01.06-17.11.23:460][614]LogFbx: FBX Scene Loaded Succesfully
+[2024.01.06-17.11.28:211][614]LogSlate: Window 'FBX Import Options' being destroyed
+[2024.01.06-17.11.28:234][614]LogFbx: SortedLinks :(0) root
+[2024.01.06-17.11.28:234][614]LogFbx: SortedLinks :(1) pelvis
+[2024.01.06-17.11.28:234][614]LogFbx: SortedLinks :(2) spine_01
+[2024.01.06-17.11.28:234][614]LogFbx: SortedLinks :(3) spine_02
+[2024.01.06-17.11.28:234][614]LogFbx: SortedLinks :(4) spine_03
+[2024.01.06-17.11.28:234][614]LogFbx: SortedLinks :(5) clavicle_l
+[2024.01.06-17.11.28:234][614]LogFbx: SortedLinks :(6) upperarm_l
+[2024.01.06-17.11.28:234][614]LogFbx: SortedLinks :(7) lowerarm_l
+[2024.01.06-17.11.28:234][614]LogFbx: SortedLinks :(8) hand_l
+[2024.01.06-17.11.28:234][614]LogFbx: SortedLinks :(9) index_01_l
+[2024.01.06-17.11.28:234][614]LogFbx: SortedLinks :(10) index_02_l
+[2024.01.06-17.11.28:234][614]LogFbx: SortedLinks :(11) index_03_l
+[2024.01.06-17.11.28:234][614]LogFbx: SortedLinks :(12) middle_01_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(13) middle_02_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(14) middle_03_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(15) pinky_01_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(16) pinky_02_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(17) pinky_03_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(18) ring_01_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(19) ring_02_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(20) ring_03_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(21) thumb_01_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(22) thumb_02_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(23) thumb_03_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(24) lowerarm_twist_01_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(25) upperarm_twist_01_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(26) clavicle_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(27) upperarm_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(28) lowerarm_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(29) hand_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(30) index_01_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(31) index_02_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(32) index_03_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(33) middle_01_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(34) middle_02_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(35) middle_03_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(36) pinky_01_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(37) pinky_02_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(38) pinky_03_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(39) ring_01_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(40) ring_02_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(41) ring_03_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(42) thumb_01_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(43) thumb_02_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(44) thumb_03_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(45) lowerarm_twist_01_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(46) upperarm_twist_01_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(47) neck_01
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(48) head
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(49) thigh_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(50) calf_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(51) calf_twist_01_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(52) foot_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(53) ball_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(54) thigh_twist_01_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(55) thigh_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(56) calf_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(57) calf_twist_01_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(58) foot_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(59) ball_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(60) thigh_twist_01_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(61) ik_foot_root
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(62) ik_foot_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(63) ik_foot_r
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(64) ik_hand_root
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(65) ik_hand_gun
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(66) ik_hand_l
+[2024.01.06-17.11.28:235][614]LogFbx: SortedLinks :(67) ik_hand_r
+[2024.01.06-17.11.28:235][614]LogFbx: Parsing AnimStack Take 001
+[2024.01.06-17.11.28:441][614]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Paired_PushShove_Att.Paired_PushShove_Att
+[2024.01.06-17.11.28:456][614]LogAnimationCompression: Display: Storing compressed animation data for /Game/Paired_PushShove_Att.Paired_PushShove_Att, at AnimationSequence/b03c73dccc2ff8defb75afa32b23a19f5a8fa305
+[2024.01.06-17.11.31:443][827]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Paired_PushShove_Att.Paired_PushShove_Att
+[2024.01.06-17.11.31:482][827]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.11.31:482][827]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.11.31:501][827]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.11.31:501][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.11.53:688][440]LogSlate: Window 'Paired_PushShove_Att' being destroyed
+[2024.01.06-17.11.53:709][440]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.11.53:709][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.11.53:718][440]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.11.53:718][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.11.53:761][440]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.11.53:761][440]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.12.02:387][ 70]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.12.02:387][ 70]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.12.02:413][ 70]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.12.02:413][ 70]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.12.02:483][ 70]LogViewport: Scene viewport resized to 320x240, mode Windowed.
+[2024.01.06-17.12.02:490][ 70]LogViewport: Scene viewport resized to 320x240, mode Windowed.
+[2024.01.06-17.12.27:519][ 79]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny_Simple) ...
+[2024.01.06-17.12.27:583][ 80]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.12.27:600][ 81]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.12.31:120][129]LogSlate: Window 'Duplicate and Retarget Animation Assets' being destroyed
+[2024.01.06-17.12.31:212][129]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.01.06-17.12.31:323][129]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Paired_PushShove_Att1.Paired_PushShove_Att1
+[2024.01.06-17.12.31:326][129]LogTemp: Display: Duplicate and Retarget - New Asset Created: Paired_PushShove_Att1
+[2024.01.06-17.12.31:344][129]LogAnimationCompression: Display: Storing compressed animation data for /Game/Paired_PushShove_Att1.Paired_PushShove_Att1, at AnimationSequence/2471beedd1bf9bdc98f9d08bc25baeac580d8d2c
+[2024.01.06-17.12.31:372][129]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.12.31:372][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.12.31:376][129]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.12.31:376][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.12.51:090][859]LogContentBrowser: Attempting asset rename: Paired_PushShove_Att1 -> Enemy_Atack
+[2024.01.06-17.12.51:129][859]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.06-17.12.51:157][859]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy_Atack" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/Enemy_Atack.uasset" SILENT=true
+[2024.01.06-17.12.51:174][859]LogSavePackage: Moving output files for package: /Game/Enemy_Atack
+[2024.01.06-17.12.51:174][859]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Enemy_AtackCC732A6B4E7F0D68533F7999DFEA1160.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/Enemy_Atack.uasset'
+[2024.01.06-17.12.51:179][859]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 491 ms)
+[2024.01.06-17.12.51:207][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.06-17.12.51:232][859]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.06-17.12.51:247][859]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.06-17.12.51:250][859]AssetCheck: New page: Asset Save: Enemy_Atack
+[2024.01.06-17.12.51:250][859]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Enemy_Atack.Enemy_Atack
+[2024.01.06-17.12.53:080][984]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Enemy_Atack.Enemy_Atack
+[2024.01.06-17.12.53:081][984]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.12.53:081][984]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.12.53:097][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.06-17.12.53:363][984]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.12.53:363][984]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.12.53:413][984]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_40:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.06-17.12.53:503][984]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.12.53:503][984]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.12.53:532][984]LogViewport: Scene viewport resized to 757x505, mode Windowed.
+[2024.01.06-17.12.53:555][984]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.06-17.13.04:458][ 28]LogSlate: Window 'Enemy_Atack' being destroyed
+[2024.01.06-17.13.04:477][ 28]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.13.04:477][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.13.04:487][ 28]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.13.04:487][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.13.04:529][ 28]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.13.04:529][ 28]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.13.17:508][999]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.06-17.13.17:529][999]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inimigo_Animations/Enemy_Atack" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/Inimigo_Animations/Enemy_Atack.uasset" SILENT=true
+[2024.01.06-17.13.17:546][999]LogSavePackage: Moving output files for package: /Game/Inimigo_Animations/Enemy_Atack
+[2024.01.06-17.13.17:546][999]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Enemy_Atack1AF98B1D498ADBCBC552BAA118940438.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/Inimigo_Animations/Enemy_Atack.uasset'
+[2024.01.06-17.13.17:553][999]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 537 ms)
+[2024.01.06-17.13.17:578][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.01.06-17.13.17:597][999]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.01.06-17.13.17:613][999]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2024.01.06-17.13.17:625][999]AssetCheck: New page: Asset Save: Enemy_Atack
+[2024.01.06-17.13.17:625][999]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Inimigo_Animations/Enemy_Atack.Enemy_Atack
+[2024.01.06-17.13.18:751][ 86]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.13.18:773][ 87]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_5
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.13.18:773][ 87]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_5
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.13.42:868][761]LogContentBrowser: Deferred new asset file creation: Enemy_Atack_Montage
+[2024.01.06-17.13.42:878][761]LogContentBrowser: Creating deferred item: Enemy_Atack_Montage
+[2024.01.06-17.13.42:896][762]LogContentBrowser: Renaming the item being created (Deferred Item: Enemy_Atack_Montage).
+[2024.01.06-17.13.55:006][895]LogContentBrowser: Attempting asset rename: Enemy_Atack_Montage -> Enemy_Atack_Montage
+[2024.01.06-17.13.55:008][895]LogContentBrowser: End creating deferred item Enemy_Atack_Montage
+[2024.01.06-17.13.57:609][ 65]LogAssetEditorSubsystem: Opening Asset editor for AnimMontage /Game/Inimigo_Animations/Enemy_Atack_Montage.Enemy_Atack_Montage
+[2024.01.06-17.13.57:610][ 65]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.13.57:610][ 65]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.13.57:626][ 65]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_44:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.06-17.13.57:884][ 65]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.13.57:885][ 65]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.13.58:050][ 65]LogViewport: Scene viewport resized to 757x505, mode Windowed.
+[2024.01.06-17.14.30:909][370]LogViewport: Scene viewport resized to 755x518, mode Windowed.
+[2024.01.06-17.14.30:970][372]LogViewport: Scene viewport resized to 518x337, mode Windowed.
+[2024.01.06-17.14.31:003][373]LogViewport: Scene viewport resized to 467x297, mode Windowed.
+[2024.01.06-17.14.31:784][419]LogViewport: Scene viewport resized to 757x505, mode Windowed.
+[2024.01.06-17.14.32:483][488]LogSlate: Window 'Enemy_Atack_Montage' being destroyed
+[2024.01.06-17.14.41:959][998]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_6
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.41:959][998]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_6
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.41:974][999]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_7
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.41:974][999]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_7
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.41:989][  0]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_8
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.41:989][  0]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_8
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:005][  1]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_9
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:005][  1]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_9
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:021][  2]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_10
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:021][  2]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_10
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:037][  3]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_11
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:037][  3]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_11
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:052][  4]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_12
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:052][  4]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_12
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:066][  5]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_13
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:067][  5]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_13
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:081][  6]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_14
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:081][  6]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_14
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:096][  7]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_15
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:096][  7]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_15
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:110][  8]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_16
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:111][  8]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_16
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:126][  9]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_17
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:126][  9]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_17
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:141][ 10]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_18
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:141][ 10]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_18
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:184][ 11]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_19
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:184][ 11]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_19
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:194][ 12]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_20
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:194][ 12]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_20
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:203][ 13]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_21
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:203][ 13]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_21
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:219][ 14]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_22
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:219][ 14]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_22
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:235][ 15]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_23
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:235][ 15]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_23
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:251][ 16]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_24
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:251][ 16]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_24
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:264][ 17]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_25
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:264][ 17]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_25
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:280][ 18]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_26
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:280][ 18]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_26
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:295][ 19]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_27
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:295][ 19]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_27
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:310][ 20]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_28
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:310][ 20]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_28
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:326][ 21]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_29
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:326][ 21]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_29
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:342][ 22]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_30
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:343][ 22]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_30
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:357][ 23]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_31
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:357][ 23]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_31
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:374][ 24]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_32
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:374][ 24]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_32
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:391][ 25]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_33
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:391][ 25]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_33
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:405][ 26]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_34
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:405][ 26]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_34
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:422][ 27]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_35
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:422][ 27]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_35
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:438][ 28]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_36
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:438][ 28]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_36
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:454][ 29]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_37
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:454][ 29]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_37
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:469][ 30]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_38
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:469][ 30]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_38
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:485][ 31]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_39
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:486][ 31]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_39
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:501][ 32]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_40
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:501][ 32]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_40
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:515][ 33]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_41
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:515][ 33]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_41
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:531][ 34]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_42
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:531][ 34]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_42
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:546][ 35]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_43
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:546][ 35]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_43
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:561][ 36]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_44
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:561][ 36]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_44
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:577][ 37]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_45
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:577][ 37]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_45
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:592][ 38]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_46
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:592][ 38]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_46
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:607][ 39]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_47
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:608][ 39]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_47
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:622][ 40]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_48
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:622][ 40]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_48
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:637][ 41]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_49
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:638][ 41]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_49
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:653][ 42]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_50
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:653][ 42]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_50
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:670][ 43]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_51
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:670][ 43]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_51
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:685][ 44]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_52
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:685][ 44]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_52
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:701][ 45]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_53
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:701][ 45]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_53
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:714][ 46]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_54
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:714][ 46]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_54
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:730][ 47]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_55
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:730][ 47]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_55
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:745][ 48]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_56
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:745][ 48]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_56
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:869][ 57]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_57
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.14.42:869][ 57]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_57
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.14.42:877][ 58]LogAssetEditorSubsystem: Opening Asset editor for AnimBlueprint /Game/Inimigo_Animations/abp_scpre.abp_scpre
+[2024.01.06-17.14.42:877][ 58]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.14.42:877][ 58]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.14.42:888][ 58]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.14.42:888][ 58]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.14.42:897][ 58]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2024.01.06-17.14.43:173][ 58]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.14.43:173][ 58]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.14.43:286][ 58]LogViewport: Scene viewport resized to 316x383, mode Windowed.
+[2024.01.06-17.14.43:347][ 58]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.06-17.15.57:968][867]BlueprintLog: New page: Compile BP_Enemie
+[2024.01.06-17.15.58:043][867]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.01.06-17.15.58:092][867]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_58
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.15.58:092][867]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_58
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.15.58:162][868]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_59
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.15.58:162][868]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_59
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.16.00:231][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.06-17.16.01:209][ 54]LogSlate: Window 'Save Content' being destroyed
+[2024.01.06-17.16.01:228][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.06-17.16.01:257][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_Enemie" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/blueprints/BP_Enemie.uasset" SILENT=true
+[2024.01.06-17.16.01:271][ 54]LogSavePackage: Moving output files for package: /Game/blueprints/BP_Enemie
+[2024.01.06-17.16.01:272][ 54]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/BP_Enemie55DA63A94C5907422056FDB5E93203FC.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/blueprints/BP_Enemie.uasset'
+[2024.01.06-17.16.01:279][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Inimigo_Animations/Enemy_Atack_Montage" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/Inimigo_Animations/Enemy_Atack_Montage.uasset" SILENT=true
+[2024.01.06-17.16.01:280][ 54]LogSavePackage: Moving output files for package: /Game/Inimigo_Animations/Enemy_Atack_Montage
+[2024.01.06-17.16.01:280][ 54]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Enemy_Atack_MontageBFF6608C49E464B30C4C0C8D283D797F.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/Inimigo_Animations/Enemy_Atack_Montage.uasset'
+[2024.01.06-17.16.01:294][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Paired_PressUpThrow_Att" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/Paired_PressUpThrow_Att.uasset" SILENT=true
+[2024.01.06-17.16.01:307][ 54]LogSavePackage: Moving output files for package: /Game/Paired_PressUpThrow_Att
+[2024.01.06-17.16.01:307][ 54]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Paired_PressUpThrow_AttB51EABD84675176E1E0E518FE1AABFB0.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/Paired_PressUpThrow_Att.uasset'
+[2024.01.06-17.16.01:314][ 54]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Paired_PushShove_Att" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/Paired_PushShove_Att.uasset" SILENT=true
+[2024.01.06-17.16.01:324][ 54]LogSavePackage: Moving output files for package: /Game/Paired_PushShove_Att
+[2024.01.06-17.16.01:324][ 54]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Paired_PushShove_Att67E1F68C457947B42287218FC34BEE43.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/Paired_PushShove_Att.uasset'
+[2024.01.06-17.16.01:330][ 54]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 640 ms)
+[2024.01.06-17.16.01:333][ 54]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.06-17.16.01:333][ 54]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/blueprints/BP_Enemie.BP_Enemie
+[2024.01.06-17.16.01:333][ 54]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/Inimigo_Animations/Enemy_Atack_Montage.Enemy_Atack_Montage
+[2024.01.06-17.16.01:333][ 54]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Paired_PressUpThrow_Att.Paired_PressUpThrow_Att
+[2024.01.06-17.16.01:333][ 54]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/Paired_PushShove_Att.Paired_PushShove_Att
+[2024.01.06-17.16.03:000][188]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.06-17.16.03:006][188]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.06-17.16.03:007][188]PIE: New page: PIE session: 01 (6 de jan de 2024 11:16:03)
+[2024.01.06-17.16.03:044][188]LogPlayLevel: Display: Creating online subsystem for client :Context_61
+[2024.01.06-17.16.03:046][188]LogOnline: OSS: Created online subsystem instance for: :Context_61
+[2024.01.06-17.16.03:059][189]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.06-17.16.03:062][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003477s)
+[2024.01.06-17.16.03:062][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.003515s)
+[2024.01.06-17.16.03:079][189]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.01.06-17.16.03:081][189]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.16.03:081][189]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.16.03:082][189]LogAIModule: Creating AISystem for world 01
+[2024.01.06-17.16.03:082][189]LogPlayLevel: PIE: World Init took: (0.001471s)
+[2024.01.06-17.16.03:083][189]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2024.01.06-17.16.03:083][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.06-17.16.03:083][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.06-17.16.03:083][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.06-17.16.03:083][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.06-17.16.03:083][189]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.06-17.16.03:083][189]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.06-17.16.03:083][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.06-17.16.03:083][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.06-17.16.03:083][189]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.06-17.16.03:083][189]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.06-17.16.03:083][189]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.06-17.16.03:085][189]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.06-17.16.03:106][189]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.06-17.16.03:106][189]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.06-17.16.03:106][189]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.06-17.16.03:106][189]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.06-17.16.03:107][189]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2024.01.06-17.16.03:107][189]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=13
+[2024.01.06-17.16.03:109][189]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2024.01.06-17.16.03:109][189]LogInit: FAudioDevice initialized with ID 13.
+[2024.01.06-17.16.03:109][189]LogAudio: Display: Audio Device (ID: 13) registered with world '01'.
+[2024.01.06-17.16.03:109][189]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2024.01.06-17.16.03:109][189]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.06-17.16.03:111][189]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.06-17.16.03:115][189]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.06-14.16.03
+[2024.01.06-17.16.03:115][189]LogWorld: Bringing up level for play took: 0.004002
+[2024.01.06-17.16.03:118][189]PIE: Server logged in
+[2024.01.06-17.16.03:119][189]PIE: Play in editor total start time 0,113 seconds.
+[2024.01.06-17.16.05:198][423]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=360.53 Y=-66.82 Z=0.00 Location: X=454.08 Y=-59.06 Z=517.15 Normal: X=-0.39 Y=-0.92 Z=-0.00 PenetrationDepth:2.345 Actor:BP_Enemie_C_1 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2024.01.06-17.17.16:585][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.06-17.17.16:585][975]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.06-17.17.16:585][975]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.17.16:585][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.17.16:589][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.06-17.17.16:594][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.17.16:608][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.06-17.17.16:608][975]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 13
+[2024.01.06-17.17.16:608][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.06-17.17.16:610][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2024.01.06-17.17.16:618][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2024.01.06-17.17.16:693][976]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2024.01.06-17.18.55:832][634]BlueprintLog: New page: Compile BP_Enemie
+[2024.01.06-17.18.55:838][634]LogBlueprint: Warning: [AssetLog] C:\Users\l-0-l\Documents\GitHub\FPS-UE5\FPSFirtsGame\Content\blueprints\BP_Enemie.uasset: [Compiler] 'BP Third Person Character' does not inherit from 'Primitive Component' ( Cast To BP_ThirdPersonCharacter  would always fail).
+[2024.01.06-17.18.55:839][634]LogBlueprint: Warning: [AssetLog] C:\Users\l-0-l\Documents\GitHub\FPS-UE5\FPSFirtsGame\Content\blueprints\BP_Enemie.uasset: [Compiler] 'BP Third Person Character' does not inherit from 'Primitive Component' ( Cast To BP_ThirdPersonCharacter  would always fail).
+[2024.01.06-17.18.55:898][634]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2024.01.06-17.18.55:959][634]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_60
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.18.55:959][634]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_60
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.18.56:084][636]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_61
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.18.56:084][636]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_61
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.20.31:861][411]BlueprintLog: New page: Compile BP_Enemie
+[2024.01.06-17.20.31:938][411]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.01.06-17.20.32:001][411]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_62
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.20.32:001][411]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_62
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.20.32:107][413]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_63
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.20.32:107][413]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_63
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.20.33:890][584]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.06-17.20.33:895][584]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.06-17.20.33:895][584]PIE: New page: PIE session: 01 (6 de jan de 2024 11:20:33)
+[2024.01.06-17.20.33:934][584]LogPlayLevel: Display: Creating online subsystem for client :Context_62
+[2024.01.06-17.20.33:936][584]LogOnline: OSS: Created online subsystem instance for: :Context_62
+[2024.01.06-17.20.33:949][585]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.06-17.20.33:953][585]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004300s)
+[2024.01.06-17.20.33:953][585]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.004364s)
+[2024.01.06-17.20.33:971][585]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.01.06-17.20.33:977][585]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.20.33:978][585]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.20.33:978][585]LogAIModule: Creating AISystem for world 01
+[2024.01.06-17.20.33:978][585]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2024.01.06-17.20.33:978][585]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2024.01.06-17.20.33:978][585]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.06-17.20.33:978][585]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.06-17.20.33:978][585]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.06-17.20.33:978][585]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.06-17.20.33:978][585]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.06-17.20.33:978][585]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.06-17.20.33:978][585]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.06-17.20.33:978][585]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.06-17.20.33:979][585]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.06-17.20.33:979][585]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.06-17.20.33:979][585]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.06-17.20.33:981][585]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.06-17.20.34:001][585]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.06-17.20.34:002][585]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.06-17.20.34:002][585]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.06-17.20.34:002][585]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.06-17.20.34:003][585]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2024.01.06-17.20.34:003][585]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=14
+[2024.01.06-17.20.34:004][585]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2024.01.06-17.20.34:004][585]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2024.01.06-17.20.34:004][585]LogInit: FAudioDevice initialized with ID 14.
+[2024.01.06-17.20.34:004][585]LogAudio: Display: Audio Device (ID: 14) registered with world '01'.
+[2024.01.06-17.20.34:004][585]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 14
+[2024.01.06-17.20.34:006][585]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.06-17.20.34:010][585]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.06-14.20.34
+[2024.01.06-17.20.34:011][585]LogWorld: Bringing up level for play took: 0.004103
+[2024.01.06-17.20.34:013][585]PIE: Server logged in
+[2024.01.06-17.20.34:014][585]PIE: Play in editor total start time 0,119 seconds.
+[2024.01.06-17.21.05:044][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.06-17.21.05:044][286]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.06-17.21.05:044][286]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.21.05:045][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.21.05:047][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.06-17.21.05:054][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.21.05:068][286]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.06-17.21.05:068][286]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 14
+[2024.01.06-17.21.05:068][286]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.01.06-17.21.05:070][286]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2024.01.06-17.21.05:073][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.06-17.21.05:076][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.06-17.21.05:148][287]LogPlayLevel: Display: Destroying online subsystem :Context_62
+[2024.01.06-17.21.07:005][438]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.06-17.21.07:011][438]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.06-17.21.07:011][438]PIE: New page: PIE session: 01 (6 de jan de 2024 11:21:07)
+[2024.01.06-17.21.07:044][438]LogPlayLevel: Display: Creating online subsystem for client :Context_63
+[2024.01.06-17.21.07:045][438]LogOnline: OSS: Created online subsystem instance for: :Context_63
+[2024.01.06-17.21.07:059][439]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.06-17.21.07:063][439]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003362s)
+[2024.01.06-17.21.07:063][439]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.003396s)
+[2024.01.06-17.21.07:078][439]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.06-17.21.07:082][439]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.21.07:082][439]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.21.07:083][439]LogAIModule: Creating AISystem for world 01
+[2024.01.06-17.21.07:083][439]LogPlayLevel: PIE: World Init took: (0.001156s)
+[2024.01.06-17.21.07:083][439]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2024.01.06-17.21.07:083][439]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.06-17.21.07:083][439]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.06-17.21.07:083][439]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.06-17.21.07:083][439]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.06-17.21.07:083][439]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.06-17.21.07:083][439]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.06-17.21.07:083][439]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.06-17.21.07:083][439]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.06-17.21.07:084][439]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.06-17.21.07:084][439]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.06-17.21.07:084][439]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.06-17.21.07:086][439]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.06-17.21.07:107][439]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.06-17.21.07:107][439]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.06-17.21.07:107][439]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.06-17.21.07:107][439]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.06-17.21.07:108][439]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2024.01.06-17.21.07:108][439]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=15
+[2024.01.06-17.21.07:110][439]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2024.01.06-17.21.07:110][439]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2024.01.06-17.21.07:110][439]LogInit: FAudioDevice initialized with ID 15.
+[2024.01.06-17.21.07:110][439]LogAudio: Display: Audio Device (ID: 15) registered with world '01'.
+[2024.01.06-17.21.07:110][439]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 15
+[2024.01.06-17.21.07:112][439]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.06-17.21.07:116][439]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.06-14.21.07
+[2024.01.06-17.21.07:116][439]LogWorld: Bringing up level for play took: 0.003966
+[2024.01.06-17.21.07:118][439]PIE: Server logged in
+[2024.01.06-17.21.07:119][439]PIE: Play in editor total start time 0,109 seconds.
+[2024.01.06-17.21.09:244][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.06-17.21.09:244][675]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.06-17.21.09:244][675]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.21.09:245][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.21.09:247][675]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.06-17.21.09:252][675]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.21.09:266][675]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.06-17.21.09:266][675]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 15
+[2024.01.06-17.21.09:266][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.01.06-17.21.09:268][675]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2024.01.06-17.21.09:274][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.06-17.21.09:341][676]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2024.01.06-17.22.06:158][980]BlueprintLog: New page: Compile BP_Enemie
+[2024.01.06-17.22.06:224][980]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.01.06-17.22.06:271][980]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_64
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.22.06:272][980]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_64
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.22.06:366][982]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_65
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.06-17.22.06:366][982]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_21:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_65
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.06-17.22.07:923][113]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.06-17.22.07:929][113]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.06-17.22.07:929][113]PIE: New page: PIE session: 01 (6 de jan de 2024 11:22:07)
+[2024.01.06-17.22.07:929][113]LogPlayLevel: Display: Creating online subsystem for client :Context_64
+[2024.01.06-17.22.07:931][113]LogOnline: OSS: Created online subsystem instance for: :Context_64
+[2024.01.06-17.22.07:944][114]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.06-17.22.07:947][114]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003211s)
+[2024.01.06-17.22.07:947][114]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.003248s)
+[2024.01.06-17.22.07:965][114]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2024.01.06-17.22.07:971][114]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.22.07:971][114]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.22.07:972][114]LogAIModule: Creating AISystem for world 01
+[2024.01.06-17.22.07:972][114]LogPlayLevel: PIE: World Init took: (0.000896s)
+[2024.01.06-17.22.07:972][114]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2024.01.06-17.22.07:972][114]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.06-17.22.07:972][114]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.06-17.22.07:972][114]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.06-17.22.07:972][114]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.06-17.22.07:972][114]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.06-17.22.07:972][114]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.06-17.22.07:972][114]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.06-17.22.07:972][114]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.06-17.22.07:972][114]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.06-17.22.07:972][114]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.06-17.22.07:972][114]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.06-17.22.07:975][114]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.06-17.22.07:999][114]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.06-17.22.07:999][114]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.06-17.22.07:999][114]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.06-17.22.07:999][114]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.06-17.22.08:000][114]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2024.01.06-17.22.08:000][114]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=16
+[2024.01.06-17.22.08:001][114]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2024.01.06-17.22.08:001][114]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2024.01.06-17.22.08:001][114]LogInit: FAudioDevice initialized with ID 16.
+[2024.01.06-17.22.08:001][114]LogAudio: Display: Audio Device (ID: 16) registered with world '01'.
+[2024.01.06-17.22.08:001][114]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 16
+[2024.01.06-17.22.08:004][114]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.06-17.22.08:007][114]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.06-14.22.08
+[2024.01.06-17.22.08:007][114]LogWorld: Bringing up level for play took: 0.003384
+[2024.01.06-17.22.08:009][114]PIE: Server logged in
+[2024.01.06-17.22.08:010][114]PIE: Play in editor total start time 0,081 seconds.
+[2024.01.06-17.22.52:374][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.06-17.22.52:374][409]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.06-17.22.52:374][409]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.22.52:375][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.22.52:378][409]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.06-17.22.52:383][409]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.22.52:396][409]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.06-17.22.52:396][409]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 16
+[2024.01.06-17.22.52:396][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.01.06-17.22.52:398][409]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2024.01.06-17.22.52:402][409]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.06-17.22.52:406][409]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.01.06-17.22.52:480][410]LogPlayLevel: Display: Destroying online subsystem :Context_64
+[2024.01.06-17.22.58:636][883]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2024.01.06-17.22.58:645][883]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.06-17.22.58:675][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_Enemie" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/blueprints/BP_Enemie.uasset" SILENT=true
+[2024.01.06-17.22.58:691][883]LogSavePackage: Moving output files for package: /Game/blueprints/BP_Enemie
+[2024.01.06-17.22.58:692][883]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/BP_EnemieF6A435454D0E9408C566AA9BC17AE60F.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/blueprints/BP_Enemie.uasset'
+[2024.01.06-17.22.58:708][883]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 703 ms)
+[2024.01.06-17.22.58:710][883]AssetCheck: New page: Asset Save: BP_Enemie
+[2024.01.06-17.22.58:710][883]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/blueprints/BP_Enemie.BP_Enemie
