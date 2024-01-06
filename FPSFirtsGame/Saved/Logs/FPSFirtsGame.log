@@ -3574,3 +3574,350 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.06-17.40.58:228][455]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
 [2024.01.06-17.40.58:234][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
 [2024.01.06-17.40.58:300][456]LogPlayLevel: Display: Destroying online subsystem :Context_72
+[2024.01.06-17.42.00:055][512]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Hit_React_1.Hit_React_1
+[2024.01.06-17.42.00:059][512]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Hit_React_2.Hit_React_2
+[2024.01.06-17.42.00:061][512]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Hit_React_1.Hit_React_1, at AnimationSequence/20bd2dda069e0e04c68c8bbfbd083da6d84f174c
+[2024.01.06-17.42.00:066][512]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Hit_React_3.Hit_React_3
+[2024.01.06-17.42.00:067][512]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Hit_React_2.Hit_React_2, at AnimationSequence/53cdad3698f5894d1e5433ee942f3a5089bbdfa8
+[2024.01.06-17.42.00:074][512]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Hit_React_3.Hit_React_3, at AnimationSequence/2bff9804541dc0efd20cf2952b56574b3bd30e4e
+[2024.01.06-17.42.00:074][512]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/AnimStarterPack/Hit_React_4.Hit_React_4
+[2024.01.06-17.42.00:076][512]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.42.00:076][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.42.00:081][512]LogAnimationCompression: Display: Storing compressed animation data for /Game/AnimStarterPack/Hit_React_4.Hit_React_4, at AnimationSequence/c15f062566077c0a8b88c087ed25e5bf41e2b982
+[2024.01.06-17.42.00:087][512]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.42.00:087][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.42.00:293][512]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SK_Mannequin) ...
+[2024.01.06-17.42.00:332][512]LogViewport: Scene viewport resized to 320x240, mode Windowed.
+[2024.01.06-17.42.00:399][512]LogViewport: Scene viewport resized to 320x240, mode Windowed.
+[2024.01.06-17.42.00:431][513]LogShaderCompilers: Display: ================================================
+[2024.01.06-17.42.00:431][513]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.01.06-17.42.00:431][513]LogShaderCompilers: Display: Total job queries 24, among them cache hits 0 (0.00%)
+[2024.01.06-17.42.00:431][513]LogShaderCompilers: Display: Tracking 24 distinct input hashes that result in 16 distinct outputs (66.67%)
+[2024.01.06-17.42.00:431][513]LogShaderCompilers: Display: RAM used: 522,71 KiB of 819,20 MiB budget. Usage: 0.06%
+[2024.01.06-17.42.00:431][513]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.01.06-17.42.00:431][513]LogShaderCompilers: Display: Shaders Compiled: 2
+[2024.01.06-17.42.00:431][513]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2024.01.06-17.42.00:431][513]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.05 s
+[2024.01.06-17.42.00:431][513]LogShaderCompilers: Display: Job execution time: average 0.95 s, max 0.96 s
+[2024.01.06-17.42.00:431][513]LogShaderCompilers: Display: Job life time (pending + execution): average 0.98 s, max 1.00
+[2024.01.06-17.42.00:431][513]LogShaderCompilers: Display: Shader code size: average 16,766 KiB, min 11,348 KiB, max 22,184 KiB
+[2024.01.06-17.42.00:431][513]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.00 s
+[2024.01.06-17.42.00:431][513]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.01.06-17.42.00:432][513]LogShaderCompilers: Display: Average processing rate: 1.99 jobs/sec
+[2024.01.06-17.42.00:432][513]LogShaderCompilers: Display: Total thread time: 0,252 s
+[2024.01.06-17.42.00:432][513]LogShaderCompilers: Display: Total thread preprocess time: 0 s
+[2024.01.06-17.42.00:432][513]LogShaderCompilers: Display: Percentage time preprocessing: 0.00%
+[2024.01.06-17.42.00:432][513]LogShaderCompilers: Display: Effective parallelization: 0.25 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2024.01.06-17.42.00:432][513]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.01.06-17.42.00:432][513]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    2 times, average 0.13 sec, max 0.17 sec, min 0.08 sec)
+[2024.01.06-17.42.00:432][513]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.01.06-17.42.00:432][513]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled    2 times, average 0.13 sec, max 0.17 sec, min 0.08 sec)
+[2024.01.06-17.42.00:432][513]LogShaderCompilers: Display: ================================================
+[2024.01.06-17.42.11:376][782]LogSlate: Window 'Duplicate and Retarget Animation Assets' being destroyed
+[2024.01.06-17.42.11:601][782]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.01.06-17.42.11:701][782]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.01.06-17.42.11:701][782]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Hit_React_1.Hit_React_1
+[2024.01.06-17.42.11:713][782]LogAnimationCompression: Display: Storing compressed animation data for /Game/Hit_React_1.Hit_React_1, at AnimationSequence/677864ad863e38102bcc94973f8c23909c05b389
+[2024.01.06-17.42.11:801][782]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.01.06-17.42.11:801][782]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Hit_React_2.Hit_React_2
+[2024.01.06-17.42.11:815][782]LogAnimationCompression: Display: Storing compressed animation data for /Game/Hit_React_2.Hit_React_2, at AnimationSequence/2a12a02df0a540197cc8159c5827ec5ae9723665
+[2024.01.06-17.42.11:911][782]LogTextFormatter: Warning: Failed to parse argument "Asset" as a number (using "0" as a fallback). Please check your format string for errors: "Retargeting animation asset: {Asset}".
+[2024.01.06-17.42.11:911][782]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Hit_React_3.Hit_React_3
+[2024.01.06-17.42.11:923][782]LogAnimationCompression: Display: Storing compressed animation data for /Game/Hit_React_3.Hit_React_3, at AnimationSequence/ca0d0d769b78a6bb9c63c730ba16dcddedaa2473
+[2024.01.06-17.42.12:012][782]LogAnimationCompression: Display: Building compressed animation data for AnimSequence /Game/Hit_React_4.Hit_React_4
+[2024.01.06-17.42.12:013][782]LogTemp: Display: Duplicate and Retarget - New Asset Created: Hit_React_1
+[2024.01.06-17.42.12:013][782]LogTemp: Display: Duplicate and Retarget - New Asset Created: Hit_React_2
+[2024.01.06-17.42.12:013][782]LogTemp: Display: Duplicate and Retarget - New Asset Created: Hit_React_3
+[2024.01.06-17.42.12:013][782]LogTemp: Display: Duplicate and Retarget - New Asset Created: Hit_React_4
+[2024.01.06-17.42.12:026][782]LogAnimationCompression: Display: Storing compressed animation data for /Game/Hit_React_4.Hit_React_4, at AnimationSequence/85d7c7539782fb3c2e463614acff0c494378742f
+[2024.01.06-17.42.12:068][782]LogWorld: UWorld::CleanupWorld for World_52, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.42.12:068][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.42.12:073][782]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.42.12:073][782]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.42.30:571][806]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.06-17.42.30:597][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShotgunAnimations/Hit_React_1" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_React_1.uasset" SILENT=true
+[2024.01.06-17.42.30:613][806]LogSavePackage: Moving output files for package: /Game/ShotgunAnimations/Hit_React_1
+[2024.01.06-17.42.30:613][806]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Hit_React_11494A7B14537D0A1B2184C8EA36B4BDF.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_React_1.uasset'
+[2024.01.06-17.42.30:637][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShotgunAnimations/Hit_React_2" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_React_2.uasset" SILENT=true
+[2024.01.06-17.42.30:652][806]LogSavePackage: Moving output files for package: /Game/ShotgunAnimations/Hit_React_2
+[2024.01.06-17.42.30:652][806]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Hit_React_2FA9FEDCA41FA1CFD1E4437B355C2474B.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_React_2.uasset'
+[2024.01.06-17.42.30:677][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShotgunAnimations/Hit_React_3" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_React_3.uasset" SILENT=true
+[2024.01.06-17.42.30:692][806]LogSavePackage: Moving output files for package: /Game/ShotgunAnimations/Hit_React_3
+[2024.01.06-17.42.30:692][806]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Hit_React_32E8A75664705E3FF94E3D38E770674AC.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_React_3.uasset'
+[2024.01.06-17.42.30:718][806]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShotgunAnimations/Hit_React_4" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_React_4.uasset" SILENT=true
+[2024.01.06-17.42.30:733][806]LogSavePackage: Moving output files for package: /Game/ShotgunAnimations/Hit_React_4
+[2024.01.06-17.42.30:733][806]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Hit_React_4E37556734B6D4F3816C470A5F40FD58C.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_React_4.uasset'
+[2024.01.06-17.42.30:758][806]LogFileHelpers: InternalPromptForCheckoutAndSave took 187 ms (total: 1.03 sec)
+[2024.01.06-17.42.30:804][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2024.01.06-17.42.30:822][806]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.01.06-17.42.30:838][806]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.01.06-17.42.30:850][806]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.06-17.42.30:850][806]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ShotgunAnimations/Hit_React_1.Hit_React_1
+[2024.01.06-17.42.30:850][806]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ShotgunAnimations/Hit_React_2.Hit_React_2
+[2024.01.06-17.42.30:850][806]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ShotgunAnimations/Hit_React_3.Hit_React_3
+[2024.01.06-17.42.30:850][806]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ShotgunAnimations/Hit_React_4.Hit_React_4
+[2024.01.06-17.42.31:745][874]LogScript: Warning: Accessed None trying to read property character
+	ABP-SHOTGUNt_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_1
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0032
+[2024.01.06-17.42.31:745][874]LogScript: Warning: Accessed None
+	ABP-SHOTGUNt_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_1
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0047
+[2024.01.06-17.42.41:596][ 45]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.01.06-17.42.42:478][112]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.06-17.42.42:527][112]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.06-17.42.42:538][113]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.06-17.42.53:872][  4]LogContentBrowser: Attempting asset rename: NewFolder -> Hit_Anims
+[2024.01.06-17.42.53:872][  4]LogContentBrowser: End creating deferred item NewFolder
+[2024.01.06-17.43.08:462][ 51]LogScript: Warning: Accessed None trying to read property character
+	ABP-SHOTGUNt_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_2
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0032
+[2024.01.06-17.43.08:462][ 51]LogScript: Warning: Accessed None
+	ABP-SHOTGUNt_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_2
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0047
+[2024.01.06-17.43.08:475][ 52]LogScript: Warning: Accessed None trying to read property character
+	ABP-SHOTGUNt_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_3
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0032
+[2024.01.06-17.43.08:476][ 52]LogScript: Warning: Accessed None
+	ABP-SHOTGUNt_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_3
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0047
+[2024.01.06-17.43.08:492][ 53]LogScript: Warning: Accessed None trying to read property character
+	ABP-SHOTGUNt_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_4
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0032
+[2024.01.06-17.43.08:492][ 53]LogScript: Warning: Accessed None
+	ABP-SHOTGUNt_C /Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_4
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0047
+[2024.01.06-17.43.09:019][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.06-17.43.09:040][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShotgunAnimations/Hit_Anims/Hit_React_1" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_Anims/Hit_React_1.uasset" SILENT=true
+[2024.01.06-17.43.09:056][ 91]LogSavePackage: Moving output files for package: /Game/ShotgunAnimations/Hit_Anims/Hit_React_1
+[2024.01.06-17.43.09:056][ 91]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Hit_React_1405B61E347BF93333AB97C84AF1638EF.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_Anims/Hit_React_1.uasset'
+[2024.01.06-17.43.09:078][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShotgunAnimations/Hit_Anims/Hit_React_2" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_Anims/Hit_React_2.uasset" SILENT=true
+[2024.01.06-17.43.09:093][ 91]LogSavePackage: Moving output files for package: /Game/ShotgunAnimations/Hit_Anims/Hit_React_2
+[2024.01.06-17.43.09:093][ 91]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Hit_React_2970A1F6F42DE2C1D3974D6A0CBE63DAF.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_Anims/Hit_React_2.uasset'
+[2024.01.06-17.43.09:116][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShotgunAnimations/Hit_Anims/Hit_React_3" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_Anims/Hit_React_3.uasset" SILENT=true
+[2024.01.06-17.43.09:130][ 91]LogSavePackage: Moving output files for package: /Game/ShotgunAnimations/Hit_Anims/Hit_React_3
+[2024.01.06-17.43.09:130][ 91]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Hit_React_368B7A567481C18239AC7C6BF11E57E67.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_Anims/Hit_React_3.uasset'
+[2024.01.06-17.43.09:152][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ShotgunAnimations/Hit_Anims/Hit_React_4" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_Anims/Hit_React_4.uasset" SILENT=true
+[2024.01.06-17.43.09:167][ 91]LogSavePackage: Moving output files for package: /Game/ShotgunAnimations/Hit_Anims/Hit_React_4
+[2024.01.06-17.43.09:167][ 91]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Hit_React_4C515514A4EC987428DE7D086B2CE349C.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_Anims/Hit_React_4.uasset'
+[2024.01.06-17.43.09:193][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 173 ms (total: 1.20 sec)
+[2024.01.06-17.43.09:315][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2024.01.06-17.43.09:333][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.01.06-17.43.09:347][ 91]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.01.06-17.43.09:361][ 91]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.06-17.43.09:361][ 91]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ShotgunAnimations/Hit_Anims/Hit_React_1.Hit_React_1
+[2024.01.06-17.43.09:361][ 91]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ShotgunAnimations/Hit_Anims/Hit_React_2.Hit_React_2
+[2024.01.06-17.43.09:361][ 91]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ShotgunAnimations/Hit_Anims/Hit_React_3.Hit_React_3
+[2024.01.06-17.43.09:361][ 91]LogContentValidation: Display: Validating /Script/Engine.AnimSequence /Game/ShotgunAnimations/Hit_Anims/Hit_React_4.Hit_React_4
+[2024.01.06-17.45.13:811][845]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.01.06-17.45.13:867][845]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2024.01.06-17.45.27:734][720]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.01.06-17.45.27:750][720]LogClass: Warning: Type mismatch in hitAnims of BP_ThirdPersonCharacter_C - Previous (ObjectProperty) Current(ArrayProperty) for package:  FObjectReader
+[2024.01.06-17.45.27:790][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.01.06-17.46.08:313][879]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.01.06-17.46.08:379][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.01.06-17.46.16:713][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.06-17.46.18:331][675]LogSlate: Window 'Save Content' being destroyed
+[2024.01.06-17.46.18:338][675]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.06-17.46.18:385][675]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.01.06-17.46.18:386][675]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/BP_ThirdPersonCharacter192355D6435A6F665CF701B9D179A23A.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.01.06-17.46.18:395][675]LogSavePackage: Moving output files for package: /Game/ShotgunAnimations/Hit_Anims/Hit_React_1_Montage
+[2024.01.06-17.46.18:395][675]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Hit_React_1_Montage21BE1F2140FC50C0124C76A74606AC5C.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_Anims/Hit_React_1_Montage.uasset'
+[2024.01.06-17.46.18:425][675]LogSavePackage: Moving output files for package: /Game/ShotgunAnimations/Hit_Anims/Hit_React_2_Montage
+[2024.01.06-17.46.18:425][675]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Hit_React_2_MontageC7D77489408A8F4149B1CD8D658B02E8.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_Anims/Hit_React_2_Montage.uasset'
+[2024.01.06-17.46.18:454][675]LogSavePackage: Moving output files for package: /Game/ShotgunAnimations/Hit_Anims/Hit_React_3_Montage
+[2024.01.06-17.46.18:454][675]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Hit_React_3_Montage50638BA046129DCB486FF29952A7FA84.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_Anims/Hit_React_3_Montage.uasset'
+[2024.01.06-17.46.18:482][675]LogSavePackage: Moving output files for package: /Game/ShotgunAnimations/Hit_Anims/Hit_React_4_Montage
+[2024.01.06-17.46.18:483][675]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Hit_React_4_MontageA1EE511E44F4885A04177C86F6DEDEA7.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ShotgunAnimations/Hit_Anims/Hit_React_4_Montage.uasset'
+[2024.01.06-17.46.18:509][675]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 1.38 sec)
+[2024.01.06-17.46.18:511][675]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.06-17.46.18:511][675]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.01.06-17.46.18:511][675]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ShotgunAnimations/Hit_Anims/Hit_React_1_Montage.Hit_React_1_Montage
+[2024.01.06-17.46.18:511][675]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ShotgunAnimations/Hit_Anims/Hit_React_2_Montage.Hit_React_2_Montage
+[2024.01.06-17.46.18:511][675]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ShotgunAnimations/Hit_Anims/Hit_React_3_Montage.Hit_React_3_Montage
+[2024.01.06-17.46.18:511][675]LogContentValidation: Display: Validating /Script/Engine.AnimMontage /Game/ShotgunAnimations/Hit_Anims/Hit_React_4_Montage.Hit_React_4_Montage
+[2024.01.06-17.50.19:556][799]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.01.06-17.50.19:611][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.01.06-17.50.26:375][372]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.06-17.50.26:381][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.06-17.50.26:381][372]PIE: New page: PIE session: 01 (6 de jan de 2024 11:50:26)
+[2024.01.06-17.50.26:404][372]LogPlayLevel: Display: Creating online subsystem for client :Context_75
+[2024.01.06-17.50.26:406][372]LogOnline: OSS: Created online subsystem instance for: :Context_75
+[2024.01.06-17.50.26:421][373]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.06-17.50.26:425][373]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003784s)
+[2024.01.06-17.50.26:425][373]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.003817s)
+[2024.01.06-17.50.26:440][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.01.06-17.50.26:445][373]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.50.26:445][373]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.50.26:446][373]LogAIModule: Creating AISystem for world 01
+[2024.01.06-17.50.26:446][373]LogPlayLevel: PIE: World Init took: (0.000960s)
+[2024.01.06-17.50.26:446][373]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2024.01.06-17.50.26:446][373]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.06-17.50.26:446][373]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.06-17.50.26:446][373]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.06-17.50.26:446][373]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.06-17.50.26:446][373]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.06-17.50.26:446][373]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.06-17.50.26:446][373]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.06-17.50.26:446][373]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.06-17.50.26:446][373]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.06-17.50.26:446][373]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.06-17.50.26:446][373]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.06-17.50.26:448][373]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.06-17.50.26:471][373]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.06-17.50.26:471][373]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.06-17.50.26:471][373]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.06-17.50.26:471][373]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.06-17.50.26:472][373]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2024.01.06-17.50.26:472][373]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=22
+[2024.01.06-17.50.26:473][373]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2024.01.06-17.50.26:473][373]LogInit: FAudioDevice initialized with ID 22.
+[2024.01.06-17.50.26:473][373]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2024.01.06-17.50.26:473][373]LogAudio: Display: Audio Device (ID: 22) registered with world '01'.
+[2024.01.06-17.50.26:473][373]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2024.01.06-17.50.26:476][373]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.06-17.50.26:479][373]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.06-14.50.26
+[2024.01.06-17.50.26:480][373]LogWorld: Bringing up level for play took: 0.003598
+[2024.01.06-17.50.26:482][373]PIE: Server logged in
+[2024.01.06-17.50.26:483][373]PIE: Play in editor total start time 0,102 seconds.
+[2024.01.06-17.50.32:836][117]LogNet: Browse: /Game/mapas/01
+[2024.01.06-17.50.32:836][117]LogLoad: LoadMap: /Game/mapas/01
+[2024.01.06-17.50.32:836][117]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.06-17.50.32:836][117]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.50.32:837][117]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.50.32:877][117]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.06-17.50.32:880][117]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.01.06-17.50.32:884][117]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.06-17.50.32:888][117]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004168s)
+[2024.01.06-17.50.32:888][117]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.004217s)
+[2024.01.06-17.50.32:888][117]LogAudio: Display: Audio Device (ID: 22) registered with world '01'.
+[2024.01.06-17.50.32:888][117]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.50.32:888][117]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.50.32:889][117]LogAIModule: Creating AISystem for world 01
+[2024.01.06-17.50.32:889][117]LogPlayLevel: PIE: World Init took: (0.000869s)
+[2024.01.06-17.50.32:889][117]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.06-17.50.32:893][117]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.06-14.50.32
+[2024.01.06-17.50.32:893][117]LogWorld: Bringing up level for play took: 0.003660
+[2024.01.06-17.50.32:895][117]LogLoad: Took 0.059566 seconds to LoadMap(/Game/mapas/UEDPIE_0_01)
+[2024.01.06-17.50.40:087][959]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'hitAnims' of length 4 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'!
+[2024.01.06-17.50.40:087][959]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/mapas/UEDPIE_0_01.01:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.01.06-17.50.41:092][ 79]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'hitAnims' of length 4 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'!
+[2024.01.06-17.50.41:092][ 79]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/mapas/UEDPIE_0_01.01:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.01.06-17.50.41:293][103]LogNet: Browse: /Game/mapas/01
+[2024.01.06-17.50.41:293][103]LogLoad: LoadMap: /Game/mapas/01
+[2024.01.06-17.50.41:293][103]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.06-17.50.41:293][103]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.50.41:293][103]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.50.41:329][103]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.06-17.50.41:331][103]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.06-17.50.41:335][103]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.06-17.50.41:339][103]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003972s)
+[2024.01.06-17.50.41:339][103]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.004024s)
+[2024.01.06-17.50.41:339][103]LogAudio: Display: Audio Device (ID: 22) registered with world '01'.
+[2024.01.06-17.50.41:339][103]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.50.41:339][103]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.50.41:339][103]LogAIModule: Creating AISystem for world 01
+[2024.01.06-17.50.41:340][103]LogPlayLevel: PIE: World Init took: (0.000689s)
+[2024.01.06-17.50.41:340][103]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.06-17.50.41:343][103]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.06-14.50.41
+[2024.01.06-17.50.41:343][103]LogWorld: Bringing up level for play took: 0.003082
+[2024.01.06-17.50.41:345][103]LogLoad: Took 0.052144 seconds to LoadMap(/Game/mapas/UEDPIE_0_01)
+[2024.01.06-17.50.44:547][466]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'hitAnims' of length 4 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'!
+[2024.01.06-17.50.44:547][466]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/mapas/UEDPIE_0_01.01:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.01.06-17.50.47:014][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.06-17.50.47:014][756]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.06-17.50.47:015][756]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.50.47:015][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.50.47:018][756]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.06-17.50.47:023][756]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.50.47:039][756]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.06-17.50.47:039][756]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2024.01.06-17.50.47:039][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.01.06-17.50.47:041][756]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2024.01.06-17.50.47:047][756]LogUObjectHash: Compacting FUObjectHashTables data took   1.23ms
+[2024.01.06-17.50.47:120][757]LogPlayLevel: Display: Destroying online subsystem :Context_75
+[2024.01.06-17.51.29:824][818]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.01.06-17.51.29:879][818]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.01.06-17.51.31:109][909]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.06-17.51.31:114][909]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.06-17.51.31:114][909]PIE: New page: PIE session: 01 (6 de jan de 2024 11:51:31)
+[2024.01.06-17.51.31:114][909]LogPlayLevel: Display: Creating online subsystem for client :Context_76
+[2024.01.06-17.51.31:116][909]LogOnline: OSS: Created online subsystem instance for: :Context_76
+[2024.01.06-17.51.31:132][910]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.06-17.51.31:138][910]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005666s)
+[2024.01.06-17.51.31:138][910]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.005745s)
+[2024.01.06-17.51.31:155][910]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.01.06-17.51.31:160][910]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.51.31:160][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.51.31:161][910]LogAIModule: Creating AISystem for world 01
+[2024.01.06-17.51.31:161][910]LogPlayLevel: PIE: World Init took: (0.000923s)
+[2024.01.06-17.51.31:161][910]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2024.01.06-17.51.31:161][910]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.06-17.51.31:161][910]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.06-17.51.31:161][910]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.06-17.51.31:161][910]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.06-17.51.31:161][910]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.06-17.51.31:161][910]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.06-17.51.31:161][910]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.06-17.51.31:161][910]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.06-17.51.31:161][910]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.06-17.51.31:161][910]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.06-17.51.31:161][910]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.06-17.51.31:163][910]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.06-17.51.31:185][910]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.06-17.51.31:186][910]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.06-17.51.31:186][910]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.06-17.51.31:186][910]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.06-17.51.31:187][910]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=23
+[2024.01.06-17.51.31:187][910]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=6, Samples=6144, InstanceID=23
+[2024.01.06-17.51.31:188][910]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=23
+[2024.01.06-17.51.31:188][910]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=23
+[2024.01.06-17.51.31:188][910]LogInit: FAudioDevice initialized with ID 23.
+[2024.01.06-17.51.31:188][910]LogAudio: Display: Audio Device (ID: 23) registered with world '01'.
+[2024.01.06-17.51.31:188][910]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 23
+[2024.01.06-17.51.31:190][910]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.06-17.51.31:194][910]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.06-14.51.31
+[2024.01.06-17.51.31:194][910]LogWorld: Bringing up level for play took: 0.003750
+[2024.01.06-17.51.31:197][910]PIE: Server logged in
+[2024.01.06-17.51.31:198][910]PIE: Play in editor total start time 0,084 seconds.
+[2024.01.06-17.51.33:362][153]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'hitAnims' of length 4 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'!
+[2024.01.06-17.51.33:362][153]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/mapas/UEDPIE_0_01.01:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.01.06-17.51.37:295][624]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=202.62 Y=-59.81 Z=0.00 Location: X=292.65 Y=-50.23 Z=517.15 Normal: X=-0.37 Y=-0.93 Z=0.00 PenetrationDepth:0.540 Actor:BP_Enemie_C_1 Component:CharacterMesh0 BoneName:hand_l (0 other events since notify)
+[2024.01.06-17.51.40:327][984]LogCharacterMovement: BP_ThirdPersonCharacter_C_0 is stuck and failed to move! Velocity: X=-25.62 Y=3.86 Z=0.00 Location: X=-236.88 Y=-51.66 Z=517.15 Normal: X=-0.25 Y=-0.97 Z=0.00 PenetrationDepth:3.763 Actor:BP_Enemie_C_1 Component:CharacterMesh0 BoneName:calf_l (9 other events since notify)
+[2024.01.06-17.51.40:576][ 14]LogNet: Browse: /Game/mapas/01
+[2024.01.06-17.51.40:576][ 14]LogLoad: LoadMap: /Game/mapas/01
+[2024.01.06-17.51.40:576][ 14]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.06-17.51.40:577][ 14]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.51.40:577][ 14]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.51.40:627][ 14]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.06-17.51.40:630][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.01.06-17.51.40:634][ 14]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.06-17.51.40:638][ 14]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004009s)
+[2024.01.06-17.51.40:638][ 14]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.004059s)
+[2024.01.06-17.51.40:638][ 14]LogAudio: Display: Audio Device (ID: 23) registered with world '01'.
+[2024.01.06-17.51.40:638][ 14]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.06-17.51.40:638][ 14]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.06-17.51.40:639][ 14]LogAIModule: Creating AISystem for world 01
+[2024.01.06-17.51.40:639][ 14]LogPlayLevel: PIE: World Init took: (0.000850s)
+[2024.01.06-17.51.40:639][ 14]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.06-17.51.40:642][ 14]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.06-14.51.40
+[2024.01.06-17.51.40:642][ 14]LogWorld: Bringing up level for play took: 0.003327
+[2024.01.06-17.51.40:644][ 14]LogLoad: Took 0.068230 seconds to LoadMap(/Game/mapas/UEDPIE_0_01)
+[2024.01.06-17.51.47:854][858]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'hitAnims' of length 4 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'!
+[2024.01.06-17.51.47:854][858]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/mapas/UEDPIE_0_01.01:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.01.06-17.51.51:864][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.06-17.51.51:864][328]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.06-17.51.51:864][328]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.06-17.51.51:865][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.51.51:868][328]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.06-17.51.51:872][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.06-17.51.51:888][328]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.06-17.51.51:888][328]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 23
+[2024.01.06-17.51.51:888][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.01.06-17.51.51:890][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=23
+[2024.01.06-17.51.51:896][328]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.01.06-17.51.51:972][329]LogPlayLevel: Display: Destroying online subsystem :Context_76
+[2024.01.06-17.52.49:451][389]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.01.06-17.52.49:461][389]LogContentBrowser: Creating deferred item: NewFolder
+[2024.01.06-17.52.49:474][390]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.01.06-17.52.51:407][568]LogContentBrowser: Attempting asset rename: NewFolder -> UI
+[2024.01.06-17.52.51:407][568]LogContentBrowser: End creating deferred item NewFolder
