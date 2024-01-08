@@ -7319,3 +7319,567 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.08-22.02.46:067][779]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
 [2024.01.08-22.02.46:067][779]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Floor_Blueprint.Floor_Blueprint
 [2024.01.08-22.02.46:067][779]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_FinishGame.WB_FinishGame
+[2024.01.08-22.04.21:770][881]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.05.54:873][413]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.06.30:695][338]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.06.36:523][ 14]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.07.03:610][179]Cmd: TRANSACTION UNDO
+[2024.01.08-22.07.03:610][179]LogEditorTransaction: Undo Resize section
+[2024.01.08-22.07.04:107][184]Cmd: TRANSACTION UNDO
+[2024.01.08-22.07.04:107][184]LogEditorTransaction: Undo Animatable Property Changed
+[2024.01.08-22.07.20:076][ 42]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.07.24:707][576]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.07.46:772][193]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.07.51:165][698]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.09.13:567][452]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.09.17:901][950]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.09.44:532][910]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.10.11:189][  8]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.10.29:266][114]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.10.33:501][603]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.10.52:168][ 76]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.10.55:658][471]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.12.16:817][ 29]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.12.29:441][529]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.15.54:942][719]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.16.11:372][659]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.16.25:361][931]BlueprintLog: New page: Compile WB_FinishGame
+[2024.01.08-22.16.25:418][931]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.01.08-22.16.27:702][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.01.08-22.16.29:115][ 97]LogSlate: Window 'Save Content' being destroyed
+[2024.01.08-22.16.29:120][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.08-22.16.29:166][ 97]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_FinishGame" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/UI/WB_FinishGame.uasset" SILENT=true
+[2024.01.08-22.16.29:172][ 97]LogSavePackage: Moving output files for package: /Game/UI/WB_FinishGame
+[2024.01.08-22.16.29:173][ 97]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/WB_FinishGameCD38FD9D44C80E7B06BBEAA045797503.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/UI/WB_FinishGame.uasset'
+[2024.01.08-22.16.29:178][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 995 ms)
+[2024.01.08-22.16.29:179][ 97]AssetCheck: New page: Asset Save: WB_FinishGame
+[2024.01.08-22.16.29:179][ 97]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/UI/WB_FinishGame.WB_FinishGame
+[2024.01.08-22.17.24:811][490]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.18.30:299][ 14]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.01.08-22.18.30:359][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.01.08-22.18.31:052][ 31]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2024.01.08-22.18.31:108][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2024.01.08-22.18.32:716][141]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.08-22.18.32:722][141]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.08-22.18.32:730][141]LogPlayLevel: [PlayLevel] Compiling BP_BULET before play...
+[2024.01.08-22.18.32:804][141]LogPlayLevel: [PlayLevel] Compiling abp_scpre before play...
+[2024.01.08-22.18.32:805][141]LogPlayLevel: [PlayLevel]   Compiling BP_Enemie as a dependent...
+[2024.01.08-22.18.32:955][141]LogPlayLevel: [PlayLevel] Compiling Floor_Blueprint before play...
+[2024.01.08-22.18.32:972][141]LogPlayLevel: [PlayLevel] Compiling 01 before play...
+[2024.01.08-22.18.32:991][141]LogPlayLevel: [PlayLevel] Compiling WB_FinishGame before play...
+[2024.01.08-22.18.33:117][141]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.01.08-22.18.33:121][141]LogPlayLevel: PlayLevel: Blueprint regeneration took 399 ms (6 blueprints)
+[2024.01.08-22.18.33:121][141]PIE: New page: PIE session: 01 (8 de jan de 2024 16:18:33)
+[2024.01.08-22.18.33:158][141]LogPlayLevel: Display: Creating online subsystem for client :Context_85
+[2024.01.08-22.18.33:160][141]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2024.01.08-22.18.33:202][142]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.08-22.18.33:208][142]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005717s)
+[2024.01.08-22.18.33:208][142]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.005751s)
+[2024.01.08-22.18.33:224][142]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.01.08-22.18.33:228][142]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-22.18.33:228][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-22.18.33:228][142]LogAIModule: Creating AISystem for world 01
+[2024.01.08-22.18.33:229][142]LogPlayLevel: PIE: World Init took: (0.001102s)
+[2024.01.08-22.18.33:229][142]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2024.01.08-22.18.33:229][142]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.08-22.18.33:229][142]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.08-22.18.33:229][142]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.08-22.18.33:229][142]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.08-22.18.33:229][142]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.08-22.18.33:229][142]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.08-22.18.33:229][142]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.08-22.18.33:229][142]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.08-22.18.33:229][142]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.08-22.18.33:229][142]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.08-22.18.33:229][142]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.08-22.18.33:231][142]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.08-22.18.33:254][142]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.08-22.18.33:255][142]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.08-22.18.33:255][142]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.08-22.18.33:255][142]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.08-22.18.33:257][142]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2024.01.08-22.18.33:257][142]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2024.01.08-22.18.33:258][142]LogInit: FAudioDevice initialized with ID 44.
+[2024.01.08-22.18.33:258][142]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2024.01.08-22.18.33:258][142]LogAudio: Display: Audio Device (ID: 44) registered with world '01'.
+[2024.01.08-22.18.33:258][142]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2024.01.08-22.18.33:258][142]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 44
+[2024.01.08-22.18.33:262][142]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.08-22.18.33:276][142]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.08-19.18.33
+[2024.01.08-22.18.33:277][142]LogWorld: Bringing up level for play took: 0.013955
+[2024.01.08-22.18.33:283][142]PIE: Server logged in
+[2024.01.08-22.18.33:284][142]PIE: Play in editor total start time 0,563 seconds.
+[2024.01.08-22.18.37:799][661]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:800][661]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:800][661]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:800][661]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:800][661]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:806][662]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:806][662]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:806][662]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:806][662]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:806][662]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:815][663]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:815][663]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:815][663]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:815][663]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:815][663]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:823][664]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:823][664]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:823][664]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:823][664]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:823][664]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:831][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:832][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:832][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:832][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:832][665]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:840][666]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:840][666]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:840][666]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:840][666]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:840][666]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:848][667]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:849][667]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:849][667]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:849][667]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:849][667]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:856][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:856][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:856][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:856][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:856][668]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:865][669]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:865][669]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:865][669]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:865][669]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:865][669]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:873][670]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:873][670]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:873][670]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:873][670]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:873][670]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:881][671]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:882][671]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:882][671]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:882][671]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:882][671]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:889][672]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:890][672]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:890][672]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:890][672]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:890][672]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:898][673]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:898][673]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:898][673]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:899][673]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:899][673]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:906][674]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:906][674]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:906][674]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:906][674]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:906][674]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:915][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:915][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:915][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:915][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:915][675]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:923][676]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:923][676]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:923][676]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:923][676]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:923][676]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:931][677]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:931][677]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:931][677]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:932][677]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:932][677]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:940][678]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:940][678]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:940][678]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:940][678]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:940][678]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:948][679]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:948][679]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:948][679]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:949][679]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:949][679]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:956][680]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:956][680]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:956][680]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:957][680]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:957][680]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:965][681]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:965][681]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:965][681]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:965][681]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:965][681]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:973][682]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:973][682]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:973][682]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:973][682]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:973][682]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:982][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:982][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:982][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:982][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:982][683]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:990][684]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:990][684]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:990][684]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:990][684]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:990][684]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.18.37:997][685]LogNet: Browse: /Game/mapas/01
+[2024.01.08-22.18.37:997][685]LogLoad: LoadMap: /Game/mapas/01
+[2024.01.08-22.18.37:997][685]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.08-22.18.37:998][685]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-22.18.37:999][685]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-22.18.38:043][685]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.08-22.18.38:048][685]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2024.01.08-22.18.38:054][685]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.08-22.18.38:059][685]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005089s)
+[2024.01.08-22.18.38:059][685]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.005123s)
+[2024.01.08-22.18.38:059][685]LogAudio: Display: Audio Device (ID: 44) registered with world '01'.
+[2024.01.08-22.18.38:059][685]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-22.18.38:059][685]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-22.18.38:060][685]LogAIModule: Creating AISystem for world 01
+[2024.01.08-22.18.38:060][685]LogPlayLevel: PIE: World Init took: (0.000679s)
+[2024.01.08-22.18.38:060][685]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.08-22.18.38:072][685]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.08-19.18.38
+[2024.01.08-22.18.38:073][685]LogWorld: Bringing up level for play took: 0.012658
+[2024.01.08-22.18.38:076][685]LogLoad: Took 0.078752 seconds to LoadMap(/Game/mapas/UEDPIE_0_01)
+[2024.01.08-22.18.40:659][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-22.18.40:659][979]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.08-22.18.40:659][979]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-22.18.40:660][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-22.18.40:665][979]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.08-22.18.40:669][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-22.18.40:684][979]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-22.18.40:684][979]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 44
+[2024.01.08-22.18.40:684][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.01.08-22.18.40:686][979]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2024.01.08-22.18.40:694][979]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2024.01.08-22.18.40:887][980]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2024.01.08-22.18.42:584][ 62]LogSlate: Window 'Message Log' being destroyed
+[2024.01.08-22.18.42:601][ 62]LogSlate: Window 'Message Log' being destroyed
+[2024.01.08-22.19.08:015][284]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2024.01.08-22.19.08:019][284]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/mapas/01' took 0.020
+[2024.01.08-22.19.08:020][284]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.01.08-22.19.08:031][284]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.01.08-22.19.08:031][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.01.08-22.19.08:052][284]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5
+[2024.01.08-22.19.08:053][284]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/BP_ThirdPersonCharacter_Auto5DE65E76C454412CABDE1CE865881D9C5.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5.uasset'
+[2024.01.08-22.19.08:055][284]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/UI/WB_FinishGame] ([2] browsable assets)...
+[2024.01.08-22.19.08:057][284]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/UI/WB_FinishGame.WB_FinishGame]
+[2024.01.08-22.19.08:057][284]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/WB_FinishGame]
+[2024.01.08-22.19.08:057][284]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/WB_FinishGame" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/UI/WB_FinishGame_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2024.01.08-22.19.08:063][284]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/UI/WB_FinishGame_Auto5
+[2024.01.08-22.19.08:063][284]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/WB_FinishGame_Auto591CB6DC84B58C6852CE58FB8EE9FA600.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/UI/WB_FinishGame_Auto5.uasset'
+[2024.01.08-22.19.08:064][284]LogFileHelpers: Auto-saving content packages took 0.045
+[2024.01.08-22.20.33:934][ 72]BlueprintLog: New page: Compile WB_FinishGame
+[2024.01.08-22.20.33:963][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2024.01.08-22.20.41:644][924]LogSlate: Window 'Color Picker' being destroyed
+[2024.01.08-22.20.43:000][ 86]BlueprintLog: New page: Compile WB_FinishGame
+[2024.01.08-22.20.43:030][ 86]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2024.01.08-22.21.17:506][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.08-22.21.17:506][226]PIE: New page: PIE session: 01 (8 de jan de 2024 16:21:17)
+[2024.01.08-22.21.17:507][226]LogPlayLevel: Display: Creating online subsystem for client :Context_86
+[2024.01.08-22.21.17:508][226]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2024.01.08-22.21.17:537][227]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.08-22.21.17:542][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005411s)
+[2024.01.08-22.21.17:542][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.005449s)
+[2024.01.08-22.21.17:562][227]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2024.01.08-22.21.17:566][227]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-22.21.17:566][227]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-22.21.17:567][227]LogAIModule: Creating AISystem for world 01
+[2024.01.08-22.21.17:567][227]LogPlayLevel: PIE: World Init took: (0.000955s)
+[2024.01.08-22.21.17:567][227]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2024.01.08-22.21.17:567][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.08-22.21.17:567][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.08-22.21.17:567][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.08-22.21.17:567][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.08-22.21.17:567][227]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.08-22.21.17:567][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.08-22.21.17:567][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.08-22.21.17:567][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.08-22.21.17:567][227]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.08-22.21.17:567][227]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.08-22.21.17:567][227]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.08-22.21.17:569][227]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.08-22.21.17:590][227]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.08-22.21.17:590][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.08-22.21.17:590][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.08-22.21.17:590][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.08-22.21.17:591][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2024.01.08-22.21.17:591][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2024.01.08-22.21.17:592][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2024.01.08-22.21.17:592][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2024.01.08-22.21.17:592][227]LogInit: FAudioDevice initialized with ID 45.
+[2024.01.08-22.21.17:592][227]LogAudio: Display: Audio Device (ID: 45) registered with world '01'.
+[2024.01.08-22.21.17:592][227]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 45
+[2024.01.08-22.21.17:595][227]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.08-22.21.17:607][227]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.08-19.21.17
+[2024.01.08-22.21.17:608][227]LogWorld: Bringing up level for play took: 0.012805
+[2024.01.08-22.21.17:618][227]PIE: Server logged in
+[2024.01.08-22.21.17:619][227]PIE: Play in editor total start time 0,118 seconds.
+[2024.01.08-22.21.20:936][614]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:936][614]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:936][614]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:936][614]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:936][614]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:944][615]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:944][615]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:945][615]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:945][615]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:945][615]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:952][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:952][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:952][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:952][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:952][616]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:961][617]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:961][617]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:961][617]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:961][617]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:961][617]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:969][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:969][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:969][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:969][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:969][618]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:977][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:978][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:978][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:978][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:978][619]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:986][620]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:986][620]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:986][620]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:986][620]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:986][620]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:994][621]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:994][621]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:994][621]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:994][621]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.20:994][621]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:002][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:002][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:002][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:002][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:002][622]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:011][623]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:011][623]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:011][623]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:011][623]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:011][623]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:019][624]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:019][624]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:019][624]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:019][624]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:019][624]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:027][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:027][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:028][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:028][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:028][625]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:036][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:036][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:036][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:036][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:036][626]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:044][627]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:044][627]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:044][627]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:044][627]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:044][627]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:052][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:052][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:052][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:052][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:052][628]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:061][629]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:061][629]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:061][629]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:061][629]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:061][629]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:069][630]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:069][630]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:069][630]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:069][630]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:069][630]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:077][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:078][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:078][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:078][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:078][631]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:086][632]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:086][632]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:086][632]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:086][632]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:086][632]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:094][633]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:094][633]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:094][633]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:094][633]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:094][633]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:102][634]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:102][634]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:102][634]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:102][634]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:102][634]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:111][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:111][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:111][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:111][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:111][635]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:119][636]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:119][636]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:119][636]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:119][636]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:119][636]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:127][637]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:128][637]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:128][637]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:128][637]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:128][637]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetPlayerCharacter_ReturnValue_2". Node:  Set World Rotation Graph:  EventGraph Function:  Execute Ubergraph BP Enemie Blueprint:  BP_Enemie
+[2024.01.08-22.21.21:135][638]LogNet: Browse: /Game/mapas/01
+[2024.01.08-22.21.21:135][638]LogLoad: LoadMap: /Game/mapas/01
+[2024.01.08-22.21.21:135][638]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.08-22.21.21:136][638]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-22.21.21:136][638]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-22.21.21:173][638]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.08-22.21.21:177][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.01.08-22.21.21:181][638]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.08-22.21.21:186][638]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005111s)
+[2024.01.08-22.21.21:186][638]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.005153s)
+[2024.01.08-22.21.21:186][638]LogAudio: Display: Audio Device (ID: 45) registered with world '01'.
+[2024.01.08-22.21.21:186][638]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-22.21.21:186][638]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-22.21.21:186][638]LogAIModule: Creating AISystem for world 01
+[2024.01.08-22.21.21:186][638]LogPlayLevel: PIE: World Init took: (0.000693s)
+[2024.01.08-22.21.21:186][638]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.08-22.21.21:198][638]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.08-19.21.21
+[2024.01.08-22.21.21:199][638]LogWorld: Bringing up level for play took: 0.012628
+[2024.01.08-22.21.21:203][638]LogLoad: Took 0.067681 seconds to LoadMap(/Game/mapas/UEDPIE_0_01)
+[2024.01.08-22.21.26:058][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-22.21.26:058][205]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.08-22.21.26:059][205]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-22.21.26:060][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-22.21.26:064][205]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.08-22.21.26:069][205]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-22.21.26:083][205]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-22.21.26:083][205]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 45
+[2024.01.08-22.21.26:083][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.01.08-22.21.26:085][205]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2024.01.08-22.21.26:093][205]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2024.01.08-22.21.26:269][206]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2024.01.08-22.21.27:737][298]LogSlate: Window 'Message Log' being destroyed
+[2024.01.08-22.21.27:754][298]LogSlate: Window 'Message Log' being destroyed
+[2024.01.08-22.21.29:093][404]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.08-22.21.29:100][404]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.08-22.21.29:100][404]PIE: New page: PIE session: 01 (8 de jan de 2024 16:21:29)
+[2024.01.08-22.21.29:100][404]LogPlayLevel: Display: Creating online subsystem for client :Context_87
+[2024.01.08-22.21.29:102][404]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2024.01.08-22.21.29:116][405]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.08-22.21.29:122][405]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005653s)
+[2024.01.08-22.21.29:122][405]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.005686s)
+[2024.01.08-22.21.29:139][405]LogUObjectHash: Compacting FUObjectHashTables data took   2.24ms
+[2024.01.08-22.21.29:142][405]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-22.21.29:142][405]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-22.21.29:143][405]LogAIModule: Creating AISystem for world 01
+[2024.01.08-22.21.29:143][405]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2024.01.08-22.21.29:143][405]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2024.01.08-22.21.29:143][405]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.08-22.21.29:143][405]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.08-22.21.29:143][405]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.08-22.21.29:143][405]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.08-22.21.29:143][405]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.08-22.21.29:143][405]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.08-22.21.29:143][405]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.08-22.21.29:143][405]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.08-22.21.29:144][405]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.08-22.21.29:144][405]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.08-22.21.29:144][405]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.08-22.21.29:146][405]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.08-22.21.29:165][405]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.08-22.21.29:165][405]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.08-22.21.29:165][405]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.08-22.21.29:165][405]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.08-22.21.29:166][405]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2024.01.08-22.21.29:166][405]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2024.01.08-22.21.29:168][405]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2024.01.08-22.21.29:168][405]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2024.01.08-22.21.29:168][405]LogInit: FAudioDevice initialized with ID 46.
+[2024.01.08-22.21.29:168][405]LogAudio: Display: Audio Device (ID: 46) registered with world '01'.
+[2024.01.08-22.21.29:168][405]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 46
+[2024.01.08-22.21.29:170][405]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.08-22.21.29:183][405]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.08-19.21.29
+[2024.01.08-22.21.29:184][405]LogWorld: Bringing up level for play took: 0.013310
+[2024.01.08-22.21.29:187][405]PIE: Server logged in
+[2024.01.08-22.21.29:188][405]PIE: Play in editor total start time 0,089 seconds.
+[2024.01.08-22.21.32:679][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-22.21.32:679][807]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.08-22.21.32:679][807]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-22.21.32:680][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-22.21.32:684][807]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.08-22.21.32:688][807]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-22.21.32:703][807]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-22.21.32:703][807]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 46
+[2024.01.08-22.21.32:703][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.01.08-22.21.32:705][807]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2024.01.08-22.21.32:714][807]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.01.08-22.21.32:765][808]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2024.01.08-22.21.33:746][885]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.08-22.21.33:752][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.08-22.21.33:752][885]PIE: New page: PIE session: 01 (8 de jan de 2024 16:21:33)
+[2024.01.08-22.21.33:753][885]LogPlayLevel: Display: Creating online subsystem for client :Context_88
+[2024.01.08-22.21.33:754][885]LogOnline: OSS: Created online subsystem instance for: :Context_88
+[2024.01.08-22.21.33:768][886]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.08-22.21.33:773][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005335s)
+[2024.01.08-22.21.33:773][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.005367s)
+[2024.01.08-22.21.33:790][886]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2024.01.08-22.21.33:794][886]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-22.21.33:794][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-22.21.33:794][886]LogAIModule: Creating AISystem for world 01
+[2024.01.08-22.21.33:795][886]LogPlayLevel: PIE: World Init took: (0.000900s)
+[2024.01.08-22.21.33:795][886]LogAudio: Display: Creating Audio Device:                 Id: 47, Scope: Unique, Realtime: True
+[2024.01.08-22.21.33:795][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.08-22.21.33:795][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.08-22.21.33:795][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.08-22.21.33:795][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.08-22.21.33:795][886]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.08-22.21.33:795][886]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.08-22.21.33:795][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.08-22.21.33:795][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.08-22.21.33:795][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.08-22.21.33:795][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.08-22.21.33:795][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.08-22.21.33:797][886]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.08-22.21.33:817][886]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.08-22.21.33:817][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.08-22.21.33:817][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.08-22.21.33:817][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.08-22.21.33:817][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=47
+[2024.01.08-22.21.33:817][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=47
+[2024.01.08-22.21.33:819][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=47
+[2024.01.08-22.21.33:819][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=47
+[2024.01.08-22.21.33:819][886]LogInit: FAudioDevice initialized with ID 47.
+[2024.01.08-22.21.33:819][886]LogAudio: Display: Audio Device (ID: 47) registered with world '01'.
+[2024.01.08-22.21.33:819][886]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 47
+[2024.01.08-22.21.33:821][886]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.08-22.21.33:833][886]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.08-19.21.33
+[2024.01.08-22.21.33:834][886]LogWorld: Bringing up level for play took: 0.012638
+[2024.01.08-22.21.33:838][886]PIE: Server logged in
+[2024.01.08-22.21.33:838][886]PIE: Play in editor total start time 0,086 seconds.
+[2024.01.08-22.21.39:049][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-22.21.39:049][494]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.08-22.21.39:050][494]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-22.21.39:050][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-22.21.39:054][494]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.08-22.21.39:058][494]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-22.21.39:073][494]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-22.21.39:074][494]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 47
+[2024.01.08-22.21.39:074][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2024.01.08-22.21.39:075][494]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=47
+[2024.01.08-22.21.39:083][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.01.08-22.21.39:126][495]LogPlayLevel: Display: Destroying online subsystem :Context_88
