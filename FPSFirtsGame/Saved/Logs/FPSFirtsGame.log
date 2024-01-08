@@ -1361,3 +1361,495 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.01.08-20.25.42:363][638]LogScript: Warning: Accessed None
 	abp_scpre_C /Engine/Transient.World_2:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0.abp_scpre_C_0
 	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.08-20.26.07:409][673]LogViewport: Scene viewport resized to 316x383, mode Windowed.
+[2024.01.08-20.26.07:680][673]LogContentBrowser: Verbose: The majority of assets in the view are of type: /Script/Engine.AnimSequence
+[2024.01.08-20.26.07:757][674]LogSlate: Took 0.005252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2024.01.08-20.26.08:788][772]LogViewport: Scene viewport resized to 949x844, mode Windowed.
+[2024.01.08-20.26.30:025][188]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-20.26.30:025][188]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.26.30:109][188]LogViewport: Scene viewport resized to 627x580, mode Windowed.
+[2024.01.08-20.26.31:609][205]LogViewport: Scene viewport resized to 949x844, mode Windowed.
+[2024.01.08-20.26.33:093][324]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-20.26.33:093][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.26.33:118][324]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-20.26.33:118][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.26.33:177][324]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-20.26.33:177][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.26.34:034][392]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-20.26.34:034][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.26.34:072][392]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-20.26.34:072][392]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.26.34:742][448]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.08-20.26.34:742][448]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-20.26.34:742][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.26.35:241][489]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.01.08-20.26.35:241][489]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-20.26.35:241][489]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.26.35:813][532]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-20.26.35:813][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.26.35:835][532]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-20.26.35:835][532]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.26.35:910][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2024.01.08-20.26.36:617][592]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-20.26.36:617][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.26.36:622][592]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-20.26.36:622][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.26.39:091][789]LogSlate: Took 0.006553 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.01.08-20.26.49:699][629]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.26.49:742][630]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.26.49:759][631]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.26.49:777][632]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.26.49:795][633]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.26.49:836][636]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.26.49:868][638]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.26.49:873][638]LogScript: Warning: Accessed None trying to read property character
+	ABP-SHOTGUNt_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_0
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0032
+[2024.01.08-20.26.49:873][638]LogScript: Warning: Accessed None
+	ABP-SHOTGUNt_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_0
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0047
+[2024.01.08-20.26.52:440][939]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/blueprints/BP_Enemie.BP_Enemie
+[2024.01.08-20.26.52:440][939]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.26.52:440][939]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-20.26.52:914][940]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.26.52:969][941]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.27.11:778][235]LogDerivedDataCache: C:/Users/l-0-l/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.088 and deleted 0 files with total size 0 MiB and 172 empty folders. Scanned 1863 files in 2921 folders with total size 90 MiB.
+[2024.01.08-20.28.08:570][122]LogViewport: Scene viewport resized to 749x646, mode Windowed.
+[2024.01.08-20.28.30:052][977]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.08-20.28.30:074][977]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.08-20.28.30:076][977]LogPlayLevel: [PlayLevel] Compiling abp_scpre before play...
+[2024.01.08-20.28.30:077][977]LogPlayLevel: [PlayLevel]   Compiling BP_Enemie as a dependent...
+[2024.01.08-20.28.30:201][977]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.01.08-20.28.30:205][977]LogPlayLevel: PlayLevel: Blueprint regeneration took 130 ms (2 blueprints)
+[2024.01.08-20.28.30:223][977]PIE: New page: PIE session: 01 (8 de jan de 2024 14:28:30)
+[2024.01.08-20.28.30:230][977]LogPlayLevel: Display: Creating online subsystem for client :Context_25
+[2024.01.08-20.28.30:233][977]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.01.08-20.28.30:288][978]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.08-20.28.30:300][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011471s)
+[2024.01.08-20.28.30:300][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.011516s)
+[2024.01.08-20.28.30:312][978]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.01.08-20.28.30:318][978]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.28.30:318][978]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-20.28.30:319][978]LogAIModule: Creating AISystem for world 01
+[2024.01.08-20.28.30:323][978]LogPlayLevel: PIE: World Init took: (0.006362s)
+[2024.01.08-20.28.30:323][978]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.01.08-20.28.30:323][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.08-20.28.30:323][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.08-20.28.30:323][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.08-20.28.30:323][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.08-20.28.30:323][978]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.08-20.28.30:323][978]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.08-20.28.30:323][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.08-20.28.30:323][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.08-20.28.30:324][978]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.08-20.28.30:324][978]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.08-20.28.30:324][978]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.08-20.28.30:325][978]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.08-20.28.30:360][978]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.08-20.28.30:361][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.08-20.28.30:361][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.08-20.28.30:361][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.08-20.28.30:362][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.01.08-20.28.30:362][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.01.08-20.28.30:363][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.01.08-20.28.30:363][978]LogInit: FAudioDevice initialized with ID 2.
+[2024.01.08-20.28.30:363][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.01.08-20.28.30:363][978]LogAudio: Display: Audio Device (ID: 2) registered with world '01'.
+[2024.01.08-20.28.30:363][978]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.08-20.28.30:385][978]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.08-20.28.30:391][978]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.08-17.28.30
+[2024.01.08-20.28.30:435][978]LogWorld: Bringing up level for play took: 0.049381
+[2024.01.08-20.28.30:541][978]PIE: Server logged in
+[2024.01.08-20.28.30:541][978]PIE: Play in editor total start time 0,483 seconds.
+[2024.01.08-20.28.39:525][ 33]LogNet: Browse: /Game/mapas/01
+[2024.01.08-20.28.39:527][ 33]LogLoad: LoadMap: /Game/mapas/01
+[2024.01.08-20.28.39:527][ 33]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.08-20.28.39:532][ 33]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-20.28.39:532][ 33]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.28.39:571][ 33]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.08-20.28.39:573][ 33]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.01.08-20.28.39:581][ 33]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.08-20.28.39:585][ 33]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004055s)
+[2024.01.08-20.28.39:585][ 33]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.004097s)
+[2024.01.08-20.28.39:585][ 33]LogAudio: Display: Audio Device (ID: 2) registered with world '01'.
+[2024.01.08-20.28.39:585][ 33]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.28.39:585][ 33]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-20.28.39:585][ 33]LogAIModule: Creating AISystem for world 01
+[2024.01.08-20.28.39:586][ 33]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2024.01.08-20.28.39:586][ 33]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.08-20.28.39:589][ 33]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.08-17.28.39
+[2024.01.08-20.28.39:589][ 33]LogWorld: Bringing up level for play took: 0.003397
+[2024.01.08-20.28.39:593][ 33]LogLoad: Took 0.065442 seconds to LoadMap(/Game/mapas/UEDPIE_0_01)
+[2024.01.08-20.28.41:521][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-20.28.41:521][249]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.08-20.28.41:523][249]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-20.28.41:524][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.28.41:532][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.08-20.28.41:535][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.28.41:549][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-20.28.41:549][249]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.01.08-20.28.41:549][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.08-20.28.41:551][249]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.01.08-20.28.41:557][249]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.01.08-20.28.41:591][250]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.01.08-20.29.42:978][614]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_1
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.08-20.29.42:978][614]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_1
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.08-20.29.42:982][614]LogScript: Warning: Accessed None trying to read property character
+	ABP-SHOTGUNt_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_1
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0032
+[2024.01.08-20.29.42:982][614]LogScript: Warning: Accessed None
+	ABP-SHOTGUNt_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_1
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0047
+[2024.01.08-20.29.43:314][653]LogScript: Warning: Accessed None trying to read property character
+	ABP-SHOTGUNt_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_2
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0032
+[2024.01.08-20.29.43:314][653]LogScript: Warning: Accessed None
+	ABP-SHOTGUNt_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_2
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0047
+[2024.01.08-20.29.43:324][654]LogScript: Warning: Accessed None trying to read property character
+	ABP-SHOTGUNt_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_3
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0032
+[2024.01.08-20.29.43:324][654]LogScript: Warning: Accessed None
+	ABP-SHOTGUNt_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_3
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0047
+[2024.01.08-20.29.43:333][655]LogScript: Warning: Accessed None trying to read property character
+	ABP-SHOTGUNt_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_4
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0032
+[2024.01.08-20.29.43:333][655]LogScript: Warning: Accessed None
+	ABP-SHOTGUNt_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_4
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0047
+[2024.01.08-20.29.43:342][656]LogScript: Warning: Accessed None trying to read property character
+	ABP-SHOTGUNt_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_5
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0032
+[2024.01.08-20.29.43:342][656]LogScript: Warning: Accessed None
+	ABP-SHOTGUNt_C /Engine/Transient.World_20:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.ABP-SHOTGUNt_C_5
+	Function /Game/ShotgunAnimations/ABP-SHOTGUNt.ABP-SHOTGUNt_C:ExecuteUbergraph_ABP-SHOTGUNt:0047
+[2024.01.08-20.29.43:824][705]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_2
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.08-20.29.43:824][705]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_2
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.08-20.29.43:833][706]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_3
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.08-20.29.43:833][706]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_3
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.08-20.29.43:842][707]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_4
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.08-20.29.43:842][707]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_4
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.08-20.29.43:852][708]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_5
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.08-20.29.43:852][708]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_5
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.08-20.29.43:862][709]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_6
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.08-20.29.43:862][709]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_6
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.08-20.29.43:872][710]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_7
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.08-20.29.43:872][710]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_7
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.08-20.29.43:882][711]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_8
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.08-20.29.43:882][711]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_8
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.08-20.29.43:891][712]LogScript: Warning: Accessed None trying to read property As BP Enemie
+	abp_scpre_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_9
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0032
+[2024.01.08-20.29.43:891][712]LogScript: Warning: Accessed None
+	abp_scpre_C /Engine/Transient.World_18:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0.abp_scpre_C_9
+	Function /Game/Inimigo_Animations/abp_scpre.abp_scpre_C:ExecuteUbergraph_abp_scpre:0047
+[2024.01.08-20.29.52:382][676]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.01.08-20.29.52:382][676]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.29.52:382][676]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-20.31.28:160][130]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Manny_Simple) ...
+[2024.01.08-20.31.28:226][130]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.31.29:018][144]LogSkeletalMesh: Display: Waiting for skinned assets to be ready 0/1 (SKM_Quinn) ...
+[2024.01.08-20.31.30:832][326]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/WB_healthBar.WB_healthBar
+[2024.01.08-20.31.30:832][326]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.31.30:832][326]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-20.31.30:839][326]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.31.30:839][326]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-20.33.32:307][422]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2024.01.08-20.33.48:488][541]LogContentBrowser: Attempting asset rename: WB_healthBar -> WB_EnemyhealthBar
+[2024.01.08-20.33.48:692][541]LogMetaData: Removing '/Game/WB_EnemyhealthBar.SKEL_WB_EnemyhealthBar_C' ref from Metadata '/Game/WB_healthBar.PackageMetaData'
+[2024.01.08-20.33.48:692][541]LogMetaData: Removing '/Game/WB_EnemyhealthBar.WB_EnemyhealthBar_C' ref from Metadata '/Game/WB_healthBar.PackageMetaData'
+[2024.01.08-20.33.48:692][541]LogMetaData: Removing '/Game/WB_EnemyhealthBar.SKEL_WB_EnemyhealthBar_C:PreConstruct' ref from Metadata '/Game/WB_healthBar.PackageMetaData'
+[2024.01.08-20.33.48:692][541]LogMetaData: Removing '/Game/WB_EnemyhealthBar.SKEL_WB_EnemyhealthBar_C:Construct' ref from Metadata '/Game/WB_healthBar.PackageMetaData'
+[2024.01.08-20.33.48:692][541]LogMetaData: Removing '/Game/WB_EnemyhealthBar.SKEL_WB_EnemyhealthBar_C:Tick' ref from Metadata '/Game/WB_healthBar.PackageMetaData'
+[2024.01.08-20.33.48:759][541]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.08-20.33.48:825][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_EnemyhealthBar" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/WB_EnemyhealthBar.uasset" SILENT=true
+[2024.01.08-20.33.48:841][541]LogPackageLocalizationCache: Processed 46 localized package path(s) for 2 prioritized culture(s) in 0.008429 seconds
+[2024.01.08-20.33.48:887][541]LogSavePackage: Moving output files for package: /Game/WB_EnemyhealthBar
+[2024.01.08-20.33.48:887][541]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/WB_EnemyhealthBar8069CBF3402197BC152431B4D032FA72.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/WB_EnemyhealthBar.uasset'
+[2024.01.08-20.33.48:904][541]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms
+[2024.01.08-20.33.48:933][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.01.08-20.33.48:951][541]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2024.01.08-20.33.48:965][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.08-20.33.48:967][541]AssetCheck: New page: Asset Save: WB_EnemyhealthBar
+[2024.01.08-20.33.48:967][541]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WB_EnemyhealthBar.WB_EnemyhealthBar
+[2024.01.08-20.33.53:195][608]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/WB_EnemyhealthBar.WB_EnemyhealthBar
+[2024.01.08-20.33.53:196][608]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.33.53:196][608]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-20.33.53:205][608]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.33.53:205][608]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-20.34.10:929][864]BlueprintLog: New page: Compile WB_EnemyhealthBar
+[2024.01.08-20.34.10:963][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2024.01.08-20.36.37:414][645]LogEditorTransaction: Undo Add Node
+[2024.01.08-20.36.42:244][ 62]LogEditorTransaction: Undo Add Node
+[2024.01.08-20.39.21:892][824]BlueprintLog: New page: Compile WB_EnemyhealthBar
+[2024.01.08-20.39.21:925][824]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2024.01.08-20.39.28:022][128]LogSlate: Window 'WB_EnemyhealthBar' being destroyed
+[2024.01.08-20.40.53:511][ 81]BlueprintLog: New page: Compile BP_Enemie
+[2024.01.08-20.40.53:589][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2024.01.08-20.41.05:589][473]LogViewport: Scene viewport resized to 746x646, mode Windowed.
+[2024.01.08-20.41.05:606][474]LogViewport: Scene viewport resized to 740x646, mode Windowed.
+[2024.01.08-20.41.05:624][475]LogViewport: Scene viewport resized to 729x646, mode Windowed.
+[2024.01.08-20.41.05:640][476]LogViewport: Scene viewport resized to 717x646, mode Windowed.
+[2024.01.08-20.41.05:657][477]LogViewport: Scene viewport resized to 702x646, mode Windowed.
+[2024.01.08-20.41.05:674][478]LogViewport: Scene viewport resized to 689x646, mode Windowed.
+[2024.01.08-20.41.05:691][479]LogViewport: Scene viewport resized to 674x646, mode Windowed.
+[2024.01.08-20.41.05:708][480]LogViewport: Scene viewport resized to 661x646, mode Windowed.
+[2024.01.08-20.41.05:724][481]LogViewport: Scene viewport resized to 650x646, mode Windowed.
+[2024.01.08-20.41.05:741][482]LogViewport: Scene viewport resized to 647x646, mode Windowed.
+[2024.01.08-20.41.05:758][483]LogViewport: Scene viewport resized to 645x646, mode Windowed.
+[2024.01.08-20.41.05:891][498]LogViewport: Scene viewport resized to 647x646, mode Windowed.
+[2024.01.08-20.41.06:040][515]LogViewport: Scene viewport resized to 648x646, mode Windowed.
+[2024.01.08-20.41.06:073][518]LogViewport: Scene viewport resized to 651x646, mode Windowed.
+[2024.01.08-20.41.06:090][519]LogViewport: Scene viewport resized to 652x646, mode Windowed.
+[2024.01.08-20.41.06:106][520]LogViewport: Scene viewport resized to 655x646, mode Windowed.
+[2024.01.08-20.41.06:139][523]LogViewport: Scene viewport resized to 657x646, mode Windowed.
+[2024.01.08-20.41.27:709][ 27]BlueprintLog: New page: Compile BP_Enemie
+[2024.01.08-20.41.27:789][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.01.08-20.41.29:594][170]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.08-20.41.29:600][170]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.01.08-20.41.29:602][170]LogPlayLevel: [PlayLevel] Compiling ABP-SHOTGUNt before play...
+[2024.01.08-20.41.29:603][170]LogPlayLevel: [PlayLevel]   Compiling BP_ThirdPersonCharacter as a dependent...
+[2024.01.08-20.41.29:770][170]LogPlayLevel: [PlayLevel] Compiling 01 before play...
+[2024.01.08-20.41.29:806][170]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.01.08-20.41.29:808][170]LogPlayLevel: PlayLevel: Blueprint regeneration took 208 ms (3 blueprints)
+[2024.01.08-20.41.29:808][170]PIE: New page: PIE session: 01 (8 de jan de 2024 14:41:29)
+[2024.01.08-20.41.29:808][170]LogPlayLevel: Display: Creating online subsystem for client :Context_32
+[2024.01.08-20.41.29:810][170]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2024.01.08-20.41.29:851][171]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.08-20.41.29:854][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003625s)
+[2024.01.08-20.41.29:854][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.003662s)
+[2024.01.08-20.41.29:869][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.01.08-20.41.29:872][171]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.41.29:872][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-20.41.29:873][171]LogAIModule: Creating AISystem for world 01
+[2024.01.08-20.41.29:873][171]LogPlayLevel: PIE: World Init took: (0.000880s)
+[2024.01.08-20.41.29:873][171]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.01.08-20.41.29:873][171]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.08-20.41.29:873][171]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.08-20.41.29:873][171]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.08-20.41.29:873][171]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.08-20.41.29:873][171]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.08-20.41.29:873][171]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.08-20.41.29:873][171]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.08-20.41.29:873][171]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.08-20.41.29:873][171]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.08-20.41.29:873][171]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.08-20.41.29:873][171]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.08-20.41.29:875][171]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.08-20.41.29:897][171]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.08-20.41.29:897][171]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.08-20.41.29:897][171]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.08-20.41.29:897][171]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.08-20.41.29:898][171]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.01.08-20.41.29:898][171]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.01.08-20.41.29:900][171]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.01.08-20.41.29:900][171]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.01.08-20.41.29:900][171]LogInit: FAudioDevice initialized with ID 3.
+[2024.01.08-20.41.29:900][171]LogAudio: Display: Audio Device (ID: 3) registered with world '01'.
+[2024.01.08-20.41.29:900][171]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.01.08-20.41.29:902][171]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.08-20.41.29:905][171]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.08-17.41.29
+[2024.01.08-20.41.29:906][171]LogWorld: Bringing up level for play took: 0.003515
+[2024.01.08-20.41.29:908][171]PIE: Server logged in
+[2024.01.08-20.41.29:909][171]PIE: Play in editor total start time 0,31 seconds.
+[2024.01.08-20.41.39:045][251]LogNet: Browse: /Game/mapas/01
+[2024.01.08-20.41.39:046][251]LogLoad: LoadMap: /Game/mapas/01
+[2024.01.08-20.41.39:046][251]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.08-20.41.39:046][251]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-20.41.39:046][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.41.39:089][251]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.08-20.41.39:093][251]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2024.01.08-20.41.39:096][251]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.08-20.41.39:100][251]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004068s)
+[2024.01.08-20.41.39:100][251]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.004112s)
+[2024.01.08-20.41.39:100][251]LogAudio: Display: Audio Device (ID: 3) registered with world '01'.
+[2024.01.08-20.41.39:100][251]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.41.39:100][251]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-20.41.39:101][251]LogAIModule: Creating AISystem for world 01
+[2024.01.08-20.41.39:101][251]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2024.01.08-20.41.39:101][251]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.08-20.41.39:105][251]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.08-17.41.39
+[2024.01.08-20.41.39:105][251]LogWorld: Bringing up level for play took: 0.003521
+[2024.01.08-20.41.39:107][251]LogLoad: Took 0.061853 seconds to LoadMap(/Game/mapas/UEDPIE_0_01)
+[2024.01.08-20.41.42:291][622]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'hitAnims' of length 4 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'!
+[2024.01.08-20.41.42:291][622]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/mapas/UEDPIE_0_01.01:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.01.08-20.41.44:196][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-20.41.44:196][847]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.08-20.41.44:196][847]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-20.41.44:196][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.41.44:199][847]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.08-20.41.44:203][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.41.44:218][847]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-20.41.44:218][847]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.01.08-20.41.44:218][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.01.08-20.41.44:220][847]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.01.08-20.41.44:226][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.01.08-20.41.44:272][850]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2024.01.08-20.42.39:709][461]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behavior for '/Game/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2024.01.08-20.43.45:661][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2024.01.08-20.43.45:668][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mapas/01" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/mapas/01_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.01.08-20.43.45:693][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/mapas/01_Auto1
+[2024.01.08-20.43.45:694][451]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/01_Auto1D567CF8A4CBD7529644F0C97370B6745.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/mapas/01_Auto1.umap'
+[2024.01.08-20.43.45:697][451]LogAssetRegistry: Warning: ScanPathsSynchronous: C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/mapas/01_Auto1.umap is in the /Temp path, will not scan.
+[2024.01.08-20.43.45:697][451]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/mapas/01' took 0.058
+[2024.01.08-20.43.45:697][451]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.058
+[2024.01.08-20.43.45:699][451]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2024.01.08-20.43.45:699][451]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.43.45:721][451]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C]
+[2024.01.08-20.43.45:725][451]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2024.01.08-20.43.45:725][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2024.01.08-20.43.45:750][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2024.01.08-20.43.45:751][451]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/BP_ThirdPersonCharacter_Auto14C04753C49D69BB1752731A5E5ADB067.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2024.01.08-20.43.45:752][451]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/blueprints/BP_Enemie] ([2] browsable assets)...
+[2024.01.08-20.43.45:752][451]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.43.45:771][451]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/blueprints/BP_Enemie.BP_Enemie_C]
+[2024.01.08-20.43.45:775][451]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/blueprints/BP_Enemie.BP_Enemie]
+[2024.01.08-20.43.45:775][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/blueprints/BP_Enemie]
+[2024.01.08-20.43.45:775][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_Enemie" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/blueprints/BP_Enemie_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.01.08-20.43.45:790][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/blueprints/BP_Enemie_Auto1
+[2024.01.08-20.43.45:791][451]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/BP_Enemie_Auto1EAF7F324488A7AFD6880E0BBE8D98F33.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/blueprints/BP_Enemie_Auto1.uasset'
+[2024.01.08-20.43.45:793][451]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/WB_EnemyhealthBar] ([2] browsable assets)...
+[2024.01.08-20.43.45:798][451]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/WB_EnemyhealthBar.WB_EnemyhealthBar]
+[2024.01.08-20.43.45:798][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/WB_EnemyhealthBar]
+[2024.01.08-20.43.45:798][451]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_EnemyhealthBar" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/WB_EnemyhealthBar_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2024.01.08-20.43.45:804][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/WB_EnemyhealthBar_Auto1
+[2024.01.08-20.43.45:804][451]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/WB_EnemyhealthBar_Auto1424FF62A448A536CCF6601BAE1A228F7.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/Autosaves/Game/WB_EnemyhealthBar_Auto1.uasset'
+[2024.01.08-20.43.45:805][451]LogFileHelpers: Auto-saving content packages took 0.106
+[2024.01.08-20.44.00:955][500]BlueprintLog: New page: Compile WB_EnemyhealthBar
+[2024.01.08-20.44.01:006][500]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2024.01.08-20.44.55:441][924]BlueprintLog: New page: Compile WB_EnemyhealthBar
+[2024.01.08-20.44.55:495][924]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2024.01.08-20.45.09:749][372]BlueprintLog: New page: Compile BP_Enemie
+[2024.01.08-20.45.09:826][372]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2024.01.08-20.45.11:619][500]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.01.08-20.45.11:624][500]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.01.08-20.45.11:624][500]PIE: New page: PIE session: 01 (8 de jan de 2024 14:45:11)
+[2024.01.08-20.45.11:655][500]LogPlayLevel: Display: Creating online subsystem for client :Context_35
+[2024.01.08-20.45.11:657][500]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2024.01.08-20.45.11:670][501]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.08-20.45.11:674][501]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003811s)
+[2024.01.08-20.45.11:674][501]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.003843s)
+[2024.01.08-20.45.11:692][501]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.01.08-20.45.11:695][501]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.45.11:695][501]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-20.45.11:696][501]LogAIModule: Creating AISystem for world 01
+[2024.01.08-20.45.11:696][501]LogPlayLevel: PIE: World Init took: (0.001116s)
+[2024.01.08-20.45.11:696][501]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.01.08-20.45.11:696][501]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.01.08-20.45.11:696][501]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.01.08-20.45.11:696][501]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.01.08-20.45.11:696][501]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.01.08-20.45.11:696][501]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.01.08-20.45.11:696][501]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.01.08-20.45.11:696][501]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.01.08-20.45.11:696][501]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.01.08-20.45.11:696][501]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.01.08-20.45.11:696][501]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.01.08-20.45.11:696][501]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.01.08-20.45.11:698][501]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.01.08-20.45.11:719][501]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek High Definition Audio)
+[2024.01.08-20.45.11:720][501]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.01.08-20.45.11:720][501]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.01.08-20.45.11:720][501]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.01.08-20.45.11:721][501]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.01.08-20.45.11:721][501]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.01.08-20.45.11:722][501]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.01.08-20.45.11:722][501]LogInit: FAudioDevice initialized with ID 4.
+[2024.01.08-20.45.11:722][501]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.01.08-20.45.11:722][501]LogAudio: Display: Audio Device (ID: 4) registered with world '01'.
+[2024.01.08-20.45.11:722][501]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.01.08-20.45.11:724][501]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.08-20.45.11:727][501]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.08-17.45.11
+[2024.01.08-20.45.11:728][501]LogWorld: Bringing up level for play took: 0.003654
+[2024.01.08-20.45.11:731][501]PIE: Server logged in
+[2024.01.08-20.45.11:732][501]PIE: Play in editor total start time 0,108 seconds.
+[2024.01.08-20.45.20:873][587]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'hitAnims' of length 4 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'!
+[2024.01.08-20.45.20:873][587]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/mapas/UEDPIE_0_01.01:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.01.08-20.45.23:873][947]LogScript: Warning: Script Msg: Attempted to access index 4 from array 'hitAnims' of length 4 in '/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C'!
+[2024.01.08-20.45.23:873][947]LogScript: Warning: Script Msg called by: BP_ThirdPersonCharacter_C /Game/mapas/UEDPIE_0_01.01:PersistentLevel.BP_ThirdPersonCharacter_C_0
+[2024.01.08-20.45.34:075][171]LogNet: Browse: /Game/mapas/01
+[2024.01.08-20.45.34:075][171]LogLoad: LoadMap: /Game/mapas/01
+[2024.01.08-20.45.34:075][171]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.08-20.45.34:076][171]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-20.45.34:076][171]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.45.34:125][171]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.01.08-20.45.34:129][171]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2024.01.08-20.45.34:132][171]LogPlayLevel: Creating play world package: /Game/mapas/UEDPIE_0_01
+[2024.01.08-20.45.34:135][171]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003514s)
+[2024.01.08-20.45.34:135][171]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/mapas/01.01 to /Game/mapas/UEDPIE_0_01.01 (0.003553s)
+[2024.01.08-20.45.34:135][171]LogAudio: Display: Audio Device (ID: 4) registered with world '01'.
+[2024.01.08-20.45.34:135][171]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.01.08-20.45.34:135][171]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.01.08-20.45.34:136][171]LogAIModule: Creating AISystem for world 01
+[2024.01.08-20.45.34:136][171]LogPlayLevel: PIE: World Init took: (0.000656s)
+[2024.01.08-20.45.34:136][171]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.01.08-20.45.34:139][171]LogWorld: Bringing World /Game/mapas/UEDPIE_0_01.01 up for play (max tick rate 0) at 2024.01.08-17.45.34
+[2024.01.08-20.45.34:139][171]LogWorld: Bringing up level for play took: 0.003066
+[2024.01.08-20.45.34:141][171]LogLoad: Took 0.066289 seconds to LoadMap(/Game/mapas/UEDPIE_0_01)
+[2024.01.08-20.45.36:555][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-20.45.36:555][444]LogWorld: BeginTearingDown for /Game/mapas/UEDPIE_0_01
+[2024.01.08-20.45.36:555][444]LogWorld: UWorld::CleanupWorld for 01, bSessionEnded=true, bCleanupResources=true
+[2024.01.08-20.45.36:556][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.45.36:558][444]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.01.08-20.45.36:563][444]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.01.08-20.45.36:577][444]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.01.08-20.45.36:577][444]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.01.08-20.45.36:577][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.01.08-20.45.36:579][444]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.01.08-20.45.36:586][444]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2024.01.08-20.45.36:619][445]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.01.08-20.46.19:674][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2024.01.08-20.46.20:672][655]LogSlate: Window 'Save Content' being destroyed
+[2024.01.08-20.46.20:693][655]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.01.08-20.46.20:749][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/mapas/01" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/mapas/01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.01.08-20.46.20:787][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.01.08-20.46.20:805][655]LogSavePackage: Moving output files for package: /Game/mapas/01
+[2024.01.08-20.46.20:805][655]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/0182179D384C2930265F4BE4AD7E79ECD5.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/mapas/01.umap'
+[2024.01.08-20.46.20:812][655]LogFileHelpers: Saving map '01' took 0.064
+[2024.01.08-20.46.20:823][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/blueprints/BP_Enemie" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/blueprints/BP_Enemie.uasset" SILENT=true
+[2024.01.08-20.46.20:838][655]LogSavePackage: Moving output files for package: /Game/blueprints/BP_Enemie
+[2024.01.08-20.46.20:838][655]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/BP_Enemie5B3F8F534B5AE93C7A8F5A8ACDC1EEDE.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/blueprints/BP_Enemie.uasset'
+[2024.01.08-20.46.20:859][655]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2024.01.08-20.46.20:860][655]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/BP_ThirdPersonCharacterCFF75A2347AD98EE00B32A86BCC7937B.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2024.01.08-20.46.20:863][655]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/WB_EnemyhealthBar" FILE="C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/WB_EnemyhealthBar.uasset" SILENT=true
+[2024.01.08-20.46.20:870][655]LogSavePackage: Moving output files for package: /Game/WB_EnemyhealthBar
+[2024.01.08-20.46.20:870][655]LogSavePackage: Moving 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Saved/WB_EnemyhealthBarF1D4F6E5459A68A880EC25A548B58F2E.tmp' to 'C:/Users/l-0-l/Documents/GitHub/FPS-UE5/FPSFirtsGame/Content/WB_EnemyhealthBar.uasset'
+[2024.01.08-20.46.20:876][655]LogFileHelpers: InternalPromptForCheckoutAndSave took 183 ms (total: 327 ms)
+[2024.01.08-20.46.20:880][655]AssetCheck: New page: Asset Save: multiple assets
+[2024.01.08-20.46.20:880][655]LogContentValidation: Display: Validating /Script/Engine.World /Game/mapas/01.01
+[2024.01.08-20.46.20:880][655]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/blueprints/BP_Enemie.BP_Enemie
+[2024.01.08-20.46.20:880][655]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2024.01.08-20.46.20:880][655]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/WB_EnemyhealthBar.WB_EnemyhealthBar
